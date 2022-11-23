@@ -1,0 +1,3796 @@
+===================== Log User Admin =====================
+
+IDuser : 20032 - irfan
+IP : 127.0.0.1
+Browser : Firefox 73.0
+Platform : Linux
+Role : Super Admin
+URLpage : c_login_register/authLogin
+IDaction : 20032
+Action : Login succes
+TGL : 24/Jul/2020 12:59:15 PM
+==========================================================
+
+IDuser : 20032 - irfan
+IP : 127.0.0.1
+Browser : Firefox 73.0
+Platform : Linux
+Role : Super Admin
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 24/Jul/2020 12:59:15 PM
+==========================================================
+
+IDuser : 20032 - irfan
+IP : 127.0.0.1
+Browser : Firefox 73.0
+Platform : Linux
+Role : Super Admin
+URLpage : c_berita/addBerita
+IDaction : *
+Action : Form add berita
+TGL : 24/Jul/2020 01:01:22 PM
+==========================================================
+
+IDuser : 20032 - irfan
+IP : 127.0.0.1
+Browser : Firefox 73.0
+Platform : Linux
+Role : Super Admin
+URLpage : c_opd/visiMisiOPD
+IDaction : *
+Action : Cek visi & misi
+TGL : 24/Jul/2020 01:06:18 PM
+==========================================================
+
+IDuser : 20032 - irfan
+IP : 127.0.0.1
+Browser : Firefox 73.0
+Platform : Linux
+Role : Super Admin
+URLpage : c_login_register/authLogin
+IDaction : 20032
+Action : Login succes
+TGL : 24/Jul/2020 05:16:55 PM
+==========================================================
+
+IDuser : 20032 - irfan
+IP : 127.0.0.1
+Browser : Firefox 73.0
+Platform : Linux
+Role : Super Admin
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 24/Jul/2020 05:16:55 PM
+==========================================================
+
+IDuser : 20032 - irfan
+IP : 127.0.0.1
+Browser : Firefox 73.0
+Platform : Linux
+Role : Super Admin
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 24/Jul/2020 05:17:26 PM
+==========================================================
+
+IDuser : 20032 - irfan
+IP : 127.0.0.1
+Browser : Firefox 73.0
+Platform : Linux
+Role : Super Admin
+URLpage : c_dokumen/cekDokumen
+IDaction : 6
+Action : Cek dokumen
+TGL : 24/Jul/2020 05:17:34 PM
+==========================================================
+
+IDuser : 20032 - irfan
+IP : 127.0.0.1
+Browser : Firefox 73.0
+Platform : Linux
+Role : Super Admin
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 24/Jul/2020 05:17:36 PM
+==========================================================
+
+IDuser : 20032 - irfan
+IP : 127.0.0.1
+Browser : Firefox 73.0
+Platform : Linux
+Role : Super Admin
+URLpage : c_user/index
+IDaction : *
+Action : Cek all user
+TGL : 24/Jul/2020 05:17:42 PM
+==========================================================
+
+IDuser : 20032 - irfan
+IP : 127.0.0.1
+Browser : Firefox 73.0
+Platform : Linux
+Role : Super Admin
+URLpage : c_user/specificUser
+IDaction : 20032
+Action : Cek one user
+TGL : 24/Jul/2020 05:17:45 PM
+==========================================================
+
+IDuser : 20032 - irfan
+IP : 127.0.0.1
+Browser : Firefox 73.0
+Platform : Linux
+Role : Super Admin
+URLpage : c_user/index
+IDaction : *
+Action : Cek all user
+TGL : 24/Jul/2020 05:17:58 PM
+==========================================================
+
+IDuser : 20032 - irfan
+IP : 127.0.0.1
+Browser : Firefox 73.0
+Platform : Linux
+Role : Super Admin
+URLpage : c_user/specificUser
+IDaction : 20032
+Action : Cek one user
+TGL : 24/Jul/2020 05:18:27 PM
+==========================================================
+
+IDuser : 20032 - irfan
+IP : 127.0.0.1
+Browser : Firefox 73.0
+Platform : Linux
+Role : Super Admin
+URLpage : c_dokumen/index
+IDaction : *
+Action : Cek all dokumen
+TGL : 24/Jul/2020 05:18:52 PM
+==========================================================
+
+IDuser : 20032 - irfan
+IP : 127.0.0.1
+Browser : Firefox 73.0
+Platform : Linux
+Role : Super Admin
+URLpage : c_dokumen/cekDokumen
+IDaction : cekDokumen
+Action : Cek dokumen
+TGL : 24/Jul/2020 05:18:55 PM
+==========================================================
+
+IDuser : 20032 - irfan
+IP : 127.0.0.1
+Browser : Firefox 73.0
+Platform : Linux
+Role : Super Admin
+URLpage : c_dokumen/cekDokumen
+IDaction : 5
+Action : Cek dokumen
+TGL : 24/Jul/2020 05:20:54 PM
+==========================================================
+
+IDuser : 20032 - irfan
+IP : 127.0.0.1
+Browser : Firefox 73.0
+Platform : Linux
+Role : Super Admin
+URLpage : c_dokumen/index
+IDaction : *
+Action : Cek all dokumen
+TGL : 24/Jul/2020 05:22:45 PM
+==========================================================
+
+IDuser : 20032 - irfan
+IP : 127.0.0.1
+Browser : Firefox 73.0
+Platform : Linux
+Role : Super Admin
+URLpage : c_dokumen/cekDokumen
+IDaction : 5
+Action : Cek dokumen
+TGL : 24/Jul/2020 05:22:48 PM
+==========================================================
+
+IDuser : 20032 - irfan
+IP : 127.0.0.1
+Browser : Firefox 73.0
+Platform : Linux
+Role : Super Admin
+URLpage : c_dokumen/index
+IDaction : *
+Action : Cek all dokumen
+TGL : 24/Jul/2020 05:22:50 PM
+==========================================================
+
+IDuser : 20032 - irfan
+IP : 127.0.0.1
+Browser : Firefox 73.0
+Platform : Linux
+Role : Super Admin
+URLpage : c_dokumen/cekDokumen
+IDaction : 5
+Action : Cek dokumen
+TGL : 24/Jul/2020 05:22:52 PM
+==========================================================
+
+IDuser : 20032 - irfan
+IP : 127.0.0.1
+Browser : Firefox 73.0
+Platform : Linux
+Role : Super Admin
+URLpage : c_dokumen/index
+IDaction : *
+Action : Cek all dokumen
+TGL : 24/Jul/2020 05:22:54 PM
+==========================================================
+
+IDuser : 20032 - irfan
+IP : 127.0.0.1
+Browser : Firefox 73.0
+Platform : Linux
+Role : Super Admin
+URLpage : c_dokumen/updateDokumen
+IDaction : 5
+Action : Form update dokumen
+TGL : 24/Jul/2020 05:22:56 PM
+==========================================================
+
+IDuser : 20032 - irfan
+IP : 127.0.0.1
+Browser : Firefox 73.0
+Platform : Linux
+Role : Super Admin
+URLpage : c_dokumen/index
+IDaction : *
+Action : Cek all dokumen
+TGL : 24/Jul/2020 05:22:58 PM
+==========================================================
+
+IDuser : 20032 - irfan
+IP : 127.0.0.1
+Browser : Firefox 73.0
+Platform : Linux
+Role : Super Admin
+URLpage : c_dokumen/cekDokumen
+IDaction : 6
+Action : Cek dokumen
+TGL : 24/Jul/2020 05:23:00 PM
+==========================================================
+
+IDuser : 20032 - irfan
+IP : 127.0.0.1
+Browser : Firefox 73.0
+Platform : Linux
+Role : Super Admin
+URLpage : c_dokumen/index
+IDaction : *
+Action : Cek all dokumen
+TGL : 24/Jul/2020 05:23:02 PM
+==========================================================
+
+IDuser : 20032 - irfan
+IP : 127.0.0.1
+Browser : Firefox 73.0
+Platform : Linux
+Role : Super Admin
+URLpage : c_dokumen/cekDokumen
+IDaction : 7
+Action : Cek dokumen
+TGL : 24/Jul/2020 05:23:04 PM
+==========================================================
+
+IDuser : 20032 - irfan
+IP : 127.0.0.1
+Browser : Firefox 73.0
+Platform : Linux
+Role : Super Admin
+URLpage : c_dokumen/index
+IDaction : *
+Action : Cek all dokumen
+TGL : 24/Jul/2020 05:23:06 PM
+==========================================================
+
+IDuser : 20032 - irfan
+IP : 127.0.0.1
+Browser : Firefox 73.0
+Platform : Linux
+Role : Super Admin
+URLpage : c_dokumen/updateDokumen
+IDaction : 6
+Action : Form update dokumen
+TGL : 24/Jul/2020 05:23:11 PM
+==========================================================
+
+IDuser : 20032 - irfan
+IP : 127.0.0.1
+Browser : Firefox 73.0
+Platform : Linux
+Role : Super Admin
+URLpage : c_dokumen/doUpdateDokumen
+IDaction : 6
+Action : Update dokumen succes
+TGL : 24/Jul/2020 05:23:15 PM
+==========================================================
+
+IDuser : 20032 - irfan
+IP : 127.0.0.1
+Browser : Firefox 73.0
+Platform : Linux
+Role : Super Admin
+URLpage : c_dokumen/index
+IDaction : *
+Action : Cek all dokumen
+TGL : 24/Jul/2020 05:23:15 PM
+==========================================================
+
+IDuser : 20032 - irfan
+IP : 127.0.0.1
+Browser : Firefox 73.0
+Platform : Linux
+Role : Super Admin
+URLpage : c_dokumen/updateDokumen
+IDaction : 6
+Action : Form update dokumen
+TGL : 24/Jul/2020 05:23:17 PM
+==========================================================
+
+IDuser : 20032 - irfan
+IP : 127.0.0.1
+Browser : Firefox 73.0
+Platform : Linux
+Role : Super Admin
+URLpage : c_dokumen/doUpdateDokumen
+IDaction : 6
+Action : Update dokumen succes
+TGL : 24/Jul/2020 05:23:21 PM
+==========================================================
+
+IDuser : 20032 - irfan
+IP : 127.0.0.1
+Browser : Firefox 73.0
+Platform : Linux
+Role : Super Admin
+URLpage : c_dokumen/index
+IDaction : *
+Action : Cek all dokumen
+TGL : 24/Jul/2020 05:23:21 PM
+==========================================================
+
+IDuser : 20032 - irfan
+IP : 127.0.0.1
+Browser : Firefox 73.0
+Platform : Linux
+Role : Super Admin
+URLpage : c_opd/logout
+IDaction : *
+Action : User logout
+TGL : 24/Jul/2020 05:23:39 PM
+==========================================================
+
+IDuser : 20032 - irfan
+IP : 127.0.0.1
+Browser : Firefox 73.0
+Platform : Linux
+Role : Super Admin
+URLpage : c_login_register/authLogin
+IDaction : 20032
+Action : Login succes
+TGL : 26/Jul/2020 05:24:20 PM
+==========================================================
+
+IDuser : 20032 - irfan
+IP : 127.0.0.1
+Browser : Firefox 73.0
+Platform : Linux
+Role : Super Admin
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 26/Jul/2020 05:24:20 PM
+==========================================================
+
+IDuser : 20032 - irfan
+IP : 127.0.0.1
+Browser : Firefox 73.0
+Platform : Linux
+Role : Super Admin
+URLpage : c_berita/updateNews
+IDaction : 100029
+Action : Update berita succes
+TGL : 26/Jul/2020 05:25:03 PM
+==========================================================
+
+IDuser : 20032 - irfan
+IP : 127.0.0.1
+Browser : Firefox 73.0
+Platform : Linux
+Role : Super Admin
+URLpage : c_berita/addBerita
+IDaction : *
+Action : Form add berita
+TGL : 26/Jul/2020 05:34:59 PM
+==========================================================
+
+IDuser : 20032 - irfan
+IP : 127.0.0.1
+Browser : Firefox 73.0
+Platform : Linux
+Role : Super Admin
+URLpage : c_opd/logout
+IDaction : *
+Action : User logout
+TGL : 26/Jul/2020 05:47:05 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 78.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_login_register/authLogin
+IDaction : 20032
+Action : Login succes
+TGL : 27/Jul/2020 09:51:27 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 78.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 27/Jul/2020 09:51:27 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 78.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_user/profilUser
+IDaction : 20032
+Action : Cek profil user
+TGL : 27/Jul/2020 09:51:38 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 78.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 27/Jul/2020 09:51:45 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 78.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opd/logout
+IDaction : *
+Action : User logout
+TGL : 27/Jul/2020 09:51:49 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Chrome 84.0.4147.125
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 12/Aug/2020 04:55:08 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Chrome 84.0.4147.125
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_dokumen/cekDokumen
+IDaction : 5
+Action : Cek dokumen
+TGL : 12/Aug/2020 04:55:12 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Chrome 84.0.4147.125
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opd/logout
+IDaction : *
+Action : User logout
+TGL : 12/Aug/2020 04:55:18 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Chrome 84.0.4147.125
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_login_register/authLogin
+IDaction : 20032
+Action : Login succes
+TGL : 12/Aug/2020 05:23:02 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Chrome 84.0.4147.125
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 12/Aug/2020 05:23:02 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Chrome 84.0.4147.125
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opdGaleri/imgCarousel
+IDaction : *
+Action : Cek all carousel image for admin
+TGL : 12/Aug/2020 05:23:24 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Chrome 84.0.4147.125
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opdGaleri/addimgCarousel
+IDaction : *
+Action : Form add corousel image
+TGL : 12/Aug/2020 05:23:27 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Chrome 84.0.4147.125
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opdGaleri/doAddimgCarousel
+IDaction : 0
+Action : Add carousel image succes
+TGL : 12/Aug/2020 05:23:47 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Chrome 84.0.4147.125
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opdGaleri/imgCarousel
+IDaction : *
+Action : Cek all carousel image for admin
+TGL : 12/Aug/2020 05:23:47 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Chrome 84.0.4147.125
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 12/Aug/2020 05:24:14 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Chrome 84.0.4147.125
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 12/Aug/2020 05:30:29 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Chrome 84.0.4147.125
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_berita/addBerita
+IDaction : *
+Action : Form add berita
+TGL : 12/Aug/2020 05:34:24 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Chrome 84.0.4147.125
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_berita/doAddBerita
+IDaction : 0
+Action : Add berita succes
+TGL : 12/Aug/2020 05:34:45 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Chrome 84.0.4147.125
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_berita/index
+IDaction : *
+Action : Cek all berita
+TGL : 12/Aug/2020 05:34:45 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Chrome 84.0.4147.125
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opd/logout
+IDaction : *
+Action : User logout
+TGL : 12/Aug/2020 05:48:12 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Chrome 84.0.4147.125
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_login_register/authLogin
+IDaction : 20032
+Action : Login succes
+TGL : 12/Aug/2020 05:52:12 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Chrome 84.0.4147.125
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 12/Aug/2020 05:52:12 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Chrome 84.0.4147.125
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opdGaleri/imgCarousel
+IDaction : *
+Action : Cek all carousel image for admin
+TGL : 12/Aug/2020 05:52:27 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Chrome 84.0.4147.125
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opdGaleri/addimgCarousel
+IDaction : *
+Action : Form add corousel image
+TGL : 12/Aug/2020 05:52:29 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Chrome 84.0.4147.125
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opdGaleri/doAddimgCarousel
+IDaction : 0
+Action : Add carousel image succes
+TGL : 12/Aug/2020 05:52:37 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Chrome 84.0.4147.125
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opdGaleri/imgCarousel
+IDaction : *
+Action : Cek all carousel image for admin
+TGL : 12/Aug/2020 05:52:37 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Chrome 84.0.4147.125
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 12/Aug/2020 05:52:42 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Chrome 84.0.4147.125
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 12/Aug/2020 06:01:05 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Chrome 84.0.4147.125
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opdGaleri/imgCarousel
+IDaction : *
+Action : Cek all carousel image for admin
+TGL : 12/Aug/2020 06:01:18 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Chrome 84.0.4147.125
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opdGaleri/addimgCarousel
+IDaction : *
+Action : Form add corousel image
+TGL : 12/Aug/2020 06:01:21 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Chrome 84.0.4147.125
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opdGaleri/doAddimgCarousel
+IDaction : 3042
+Action : Add carousel image succes
+TGL : 12/Aug/2020 06:01:28 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Chrome 84.0.4147.125
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opdGaleri/imgCarousel
+IDaction : *
+Action : Cek all carousel image for admin
+TGL : 12/Aug/2020 06:01:29 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Chrome 84.0.4147.125
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 12/Aug/2020 06:01:32 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Chrome 84.0.4147.125
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 12/Aug/2020 06:06:37 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Chrome 84.0.4147.125
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 12/Aug/2020 06:09:48 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Chrome 84.0.4147.125
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 12/Aug/2020 06:10:05 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Chrome 84.0.4147.125
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 12/Aug/2020 06:17:35 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Chrome 84.0.4147.125
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opd/logout
+IDaction : *
+Action : User logout
+TGL : 12/Aug/2020 06:19:13 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Chrome 84.0.4147.105
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_login_register/authLogin
+IDaction : 20032
+Action : Login succes
+TGL : 12/Aug/2020 06:19:36 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Chrome 84.0.4147.105
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 12/Aug/2020 06:19:36 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Chrome 84.0.4147.105
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_berita/readNews
+IDaction : 100015
+Action : Baca berita
+TGL : 12/Aug/2020 06:28:04 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Chrome 84.0.4147.105
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 12/Aug/2020 06:28:57 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_login_register/authLogin
+IDaction : 20032
+Action : Login succes
+TGL : 12/Aug/2020 06:53:00 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 12/Aug/2020 06:53:00 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 12/Aug/2020 06:53:22 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 12/Aug/2020 06:54:33 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_dokumen/index
+IDaction : *
+Action : Cek all dokumen
+TGL : 12/Aug/2020 06:54:45 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_berita/index
+IDaction : *
+Action : Cek all berita
+TGL : 12/Aug/2020 06:54:50 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_dokumen/cekDokumen
+IDaction : 5
+Action : Cek dokumen
+TGL : 12/Aug/2020 06:54:52 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opdGaleri/linkCarousel
+IDaction : *
+Action : Cek all carousel link for admin
+TGL : 12/Aug/2020 06:56:06 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_user/index
+IDaction : *
+Action : Cek all user
+TGL : 12/Aug/2020 06:56:42 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_berita/addBerita
+IDaction : *
+Action : Form add berita
+TGL : 12/Aug/2020 12:03:22 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opd/strukturOrganisasiOPD
+IDaction : *
+Action : Struktur organisasi
+TGL : 12/Aug/2020 12:04:13 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 12/Aug/2020 12:04:25 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_berita/index
+IDaction : *
+Action : Cek all berita
+TGL : 12/Aug/2020 12:07:52 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opdGaleri/index
+IDaction : *
+Action : Cek all galeri for user
+TGL : 12/Aug/2020 12:08:15 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 12/Aug/2020 12:08:42 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 12/Aug/2020 12:10:16 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opdGaleri/index
+IDaction : *
+Action : Cek all galeri for user
+TGL : 12/Aug/2020 12:11:00 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opd/logout
+IDaction : *
+Action : User logout
+TGL : 12/Aug/2020 12:11:20 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_login_register/authLogin
+IDaction : 20032
+Action : Login succes
+TGL : 12/Aug/2020 12:14:41 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 12/Aug/2020 12:14:41 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opdGaleri/linkCarousel
+IDaction : *
+Action : Cek all carousel link for admin
+TGL : 12/Aug/2020 12:14:58 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opdGaleri/updateLinkCarousel
+IDaction : 3032
+Action : Form update corousel link
+TGL : 12/Aug/2020 12:15:02 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opdGaleri/imgCarousel
+IDaction : *
+Action : Cek all carousel image for admin
+TGL : 12/Aug/2020 12:15:16 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opdGaleri/addimgCarousel
+IDaction : *
+Action : Form add corousel image
+TGL : 12/Aug/2020 12:15:19 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opdGaleri/doAddimgCarousel
+IDaction : 3043
+Action : Add carousel image succes
+TGL : 12/Aug/2020 12:15:53 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opdGaleri/imgCarousel
+IDaction : *
+Action : Cek all carousel image for admin
+TGL : 12/Aug/2020 12:15:53 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 12/Aug/2020 12:15:59 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opdGaleri/imgCarousel
+IDaction : *
+Action : Cek all carousel image for admin
+TGL : 12/Aug/2020 12:17:33 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opdGaleri/deleteCarouselImage
+IDaction : 3043
+Action : Delete carouse image succes
+TGL : 12/Aug/2020 12:17:37 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opdGaleri/deleteCarouselImage
+IDaction : *
+Action : Cek all carousel image for admin
+TGL : 12/Aug/2020 12:17:37 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opdGaleri/deleteCarouselImage
+IDaction : 3042
+Action : Delete carouse image succes
+TGL : 12/Aug/2020 12:17:43 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opdGaleri/deleteCarouselImage
+IDaction : *
+Action : Cek all carousel image for admin
+TGL : 12/Aug/2020 12:17:43 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 12/Aug/2020 12:17:45 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 12/Aug/2020 12:19:23 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_login_register/authLogin
+IDaction : 20032
+Action : Login succes
+TGL : 13/Aug/2020 10:39:46 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 13/Aug/2020 10:39:47 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_login_register/authLogin
+IDaction : 20032
+Action : Login succes
+TGL : 14/Aug/2020 09:23:09 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 14/Aug/2020 09:23:10 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_berita/readNews
+IDaction : 100015
+Action : Baca berita
+TGL : 14/Aug/2020 09:23:23 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_berita/addBerita
+IDaction : *
+Action : Form add berita
+TGL : 14/Aug/2020 09:28:36 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_berita/doAddBerita
+IDaction : 100016
+Action : Add berita succes
+TGL : 14/Aug/2020 09:28:51 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_berita/index
+IDaction : *
+Action : Cek all berita
+TGL : 14/Aug/2020 09:28:52 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_berita/readNews
+IDaction : 100016
+Action : Baca berita
+TGL : 14/Aug/2020 09:28:54 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_berita/index
+IDaction : *
+Action : Cek all berita
+TGL : 14/Aug/2020 09:29:06 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_berita/index
+IDaction : *
+Action : Cek all berita
+TGL : 14/Aug/2020 09:29:46 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_berita/readNews
+IDaction : 100016
+Action : Baca berita
+TGL : 14/Aug/2020 09:31:16 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_berita/deleteNews
+IDaction : 100016
+Action : Delete berita succes
+TGL : 14/Aug/2020 09:31:30 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_berita/index
+IDaction : *
+Action : Cek all berita
+TGL : 14/Aug/2020 09:31:30 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 14/Aug/2020 09:33:08 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opd/logout
+IDaction : *
+Action : User logout
+TGL : 14/Aug/2020 09:40:31 AM
+==========================================================
+
+IDuser : 20034 - jack way2
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Admin
+URLpage : c_login_register/authLogin
+IDaction : 20034
+Action : Login succes
+TGL : 14/Aug/2020 02:56:08 PM
+==========================================================
+
+IDuser : 20034 - jack way2
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Admin
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 14/Aug/2020 02:56:08 PM
+==========================================================
+
+IDuser : 20034 - jack way2
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Admin
+URLpage : c_berita/index
+IDaction : *
+Action : Cek all berita
+TGL : 14/Aug/2020 02:56:12 PM
+==========================================================
+
+IDuser : 20034 - jack way2
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Admin
+URLpage : c_berita/readNews
+IDaction : 100015
+Action : Baca berita
+TGL : 14/Aug/2020 02:56:22 PM
+==========================================================
+
+IDuser : 20034 - jack way2
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Admin
+URLpage : c_opd/logout
+IDaction : *
+Action : User logout
+TGL : 14/Aug/2020 02:56:51 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_login_register/authLogin
+IDaction : 20032
+Action : Login succes
+TGL : 14/Aug/2020 02:57:01 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 14/Aug/2020 02:57:01 PM
+==========================================================
+
+IDuser : 20037 - M Irfan
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/authLogin
+IDaction : 20037
+Action : Login succes
+TGL : 14/Aug/2020 09:30:11 PM
+==========================================================
+
+IDuser : 20037 - M Irfan
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 14/Aug/2020 09:30:11 PM
+==========================================================
+
+IDuser : 20037 - M Irfan
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/logout
+IDaction : *
+Action : User logout
+TGL : 14/Aug/2020 09:30:19 PM
+==========================================================
+
+IDuser : 20037 - M Irfan
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/authLogin
+IDaction : 20037
+Action : Login succes
+TGL : 14/Aug/2020 09:31:27 PM
+==========================================================
+
+IDuser : 20037 - M Irfan
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 14/Aug/2020 09:31:27 PM
+==========================================================
+
+IDuser : 20037 - M Irfan
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 14/Aug/2020 09:31:37 PM
+==========================================================
+
+IDuser : 20037 - M Irfan
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 14/Aug/2020 09:31:41 PM
+==========================================================
+
+IDuser : 20037 - M Irfan
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/logout
+IDaction : *
+Action : User logout
+TGL : 14/Aug/2020 09:31:50 PM
+==========================================================
+
+IDuser : 20037 - M Irfan
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/authLogin
+IDaction : 20037
+Action : Login succes
+TGL : 15/Aug/2020 08:51:19 AM
+==========================================================
+
+IDuser : 20037 - M Irfan
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 15/Aug/2020 08:51:19 AM
+==========================================================
+
+IDuser : 20037 - M Irfan
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 15/Aug/2020 09:10:08 AM
+==========================================================
+
+IDuser : 20037 - M Irfan
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 15/Aug/2020 09:10:22 AM
+==========================================================
+
+IDuser : 20037 - M Irfan
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/visiMisiOPD
+IDaction : *
+Action : Cek visi & misi
+TGL : 15/Aug/2020 09:22:06 AM
+==========================================================
+
+IDuser : 20037 - M Irfan
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/tugasDanFungsiOPD
+IDaction : *
+Action : Tugas & fungsi
+TGL : 15/Aug/2020 09:23:55 AM
+==========================================================
+
+IDuser : 20037 - M Irfan
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/strukturOrganisasiOPD
+IDaction : *
+Action : Struktur organisasi
+TGL : 15/Aug/2020 09:24:49 AM
+==========================================================
+
+IDuser : 20037 - M Irfan
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_berita/index
+IDaction : *
+Action : Cek all berita
+TGL : 15/Aug/2020 09:35:26 AM
+==========================================================
+
+IDuser : 20037 - M Irfan
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/logout
+IDaction : *
+Action : User logout
+TGL : 15/Aug/2020 09:39:30 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_login_register/authLogin
+IDaction : 20032
+Action : Login succes
+TGL : 15/Aug/2020 09:54:55 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 15/Aug/2020 09:54:55 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_berita/index
+IDaction : *
+Action : Cek all berita
+TGL : 15/Aug/2020 09:55:01 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_berita/readNews
+IDaction : 100015
+Action : Baca berita
+TGL : 15/Aug/2020 09:55:05 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opd/logout
+IDaction : *
+Action : User logout
+TGL : 15/Aug/2020 09:56:39 AM
+==========================================================
+
+IDuser : 20037 - M Irfan
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/authLogin
+IDaction : 20037
+Action : Login succes
+TGL : 15/Aug/2020 09:57:10 AM
+==========================================================
+
+IDuser : 20037 - M Irfan
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 15/Aug/2020 09:57:11 AM
+==========================================================
+
+IDuser : 20037 - M Irfan
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/logout
+IDaction : *
+Action : User logout
+TGL : 15/Aug/2020 09:59:30 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_login_register/authLogin
+IDaction : 20032
+Action : Login succes
+TGL : 15/Aug/2020 10:00:24 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 15/Aug/2020 10:00:24 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 15/Aug/2020 10:00:52 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opd/logout
+IDaction : *
+Action : User logout
+TGL : 15/Aug/2020 10:00:57 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_login_register/authLogin
+IDaction : 20032
+Action : Login succes
+TGL : 15/Aug/2020 10:01:08 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 15/Aug/2020 10:01:08 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opd/logout
+IDaction : *
+Action : User logout
+TGL : 15/Aug/2020 10:01:21 AM
+==========================================================
+
+IDuser : 20037 - M Irfan
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/authLogin
+IDaction : 20037
+Action : Login succes
+TGL : 15/Aug/2020 10:02:29 AM
+==========================================================
+
+IDuser : 20037 - M Irfan
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 15/Aug/2020 10:02:29 AM
+==========================================================
+
+IDuser : 20037 - M Irfan
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_berita/readNews
+IDaction : 100015
+Action : Baca berita
+TGL : 15/Aug/2020 10:02:35 AM
+==========================================================
+
+IDuser : 20037 - M Irfan
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/logout
+IDaction : *
+Action : User logout
+TGL : 15/Aug/2020 10:04:46 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_login_register/authLogin
+IDaction : 20032
+Action : Login succes
+TGL : 15/Aug/2020 10:04:57 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 15/Aug/2020 10:04:57 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_berita/readNews
+IDaction : 100015
+Action : Baca berita
+TGL : 15/Aug/2020 10:05:02 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opd/logout
+IDaction : *
+Action : User logout
+TGL : 15/Aug/2020 10:06:55 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_login_register/authLogin
+IDaction : 20032
+Action : Login succes
+TGL : 15/Aug/2020 10:07:09 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 15/Aug/2020 10:07:09 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opd/logout
+IDaction : *
+Action : User logout
+TGL : 15/Aug/2020 10:07:23 AM
+==========================================================
+
+IDuser : 20037 - M Irfan
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/authLogin
+IDaction : 20037
+Action : Login succes
+TGL : 15/Aug/2020 10:07:34 AM
+==========================================================
+
+IDuser : 20037 - M Irfan
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 15/Aug/2020 10:07:34 AM
+==========================================================
+
+IDuser : 20037 - M Irfan
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_berita/readNews
+IDaction : 100015
+Action : Baca berita
+TGL : 15/Aug/2020 10:07:38 AM
+==========================================================
+
+IDuser : 20037 - M Irfan
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_berita/readNews
+IDaction : 100015
+Action : Baca berita
+TGL : 15/Aug/2020 10:08:28 AM
+==========================================================
+
+IDuser : 20037 - M Irfan
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_berita/readNews
+IDaction : 100015
+Action : Baca berita
+TGL : 15/Aug/2020 10:08:32 AM
+==========================================================
+
+IDuser : 20037 - M Irfan
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 15/Aug/2020 10:08:43 AM
+==========================================================
+
+IDuser : 20037 - M Irfan
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_berita/readNews
+IDaction : 100015
+Action : Baca berita
+TGL : 15/Aug/2020 10:08:45 AM
+==========================================================
+
+IDuser : 20037 - M Irfan
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/logout
+IDaction : *
+Action : User logout
+TGL : 15/Aug/2020 10:13:25 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_login_register/authLogin
+IDaction : 20032
+Action : Login succes
+TGL : 15/Aug/2020 10:32:08 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 15/Aug/2020 10:32:08 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opd/logout
+IDaction : *
+Action : User logout
+TGL : 15/Aug/2020 10:32:11 AM
+==========================================================
+
+IDuser : 20037 - M Irfan
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/authLogin
+IDaction : 20037
+Action : Login succes
+TGL : 15/Aug/2020 10:32:21 AM
+==========================================================
+
+IDuser : 20037 - M Irfan
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 15/Aug/2020 10:32:21 AM
+==========================================================
+
+IDuser : 20037 - M Irfan
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_berita/index
+IDaction : *
+Action : Cek all berita
+TGL : 15/Aug/2020 10:34:22 AM
+==========================================================
+
+IDuser : 20037 - M Irfan
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opdGaleri/index
+IDaction : *
+Action : Cek all galeri for user
+TGL : 15/Aug/2020 10:34:29 AM
+==========================================================
+
+IDuser : 20037 - M Irfan
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 15/Aug/2020 10:41:10 AM
+==========================================================
+
+IDuser : 20037 - M Irfan
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_user/profilUser
+IDaction : 20037
+Action : Cek profil user
+TGL : 15/Aug/2020 10:57:07 AM
+==========================================================
+
+IDuser : 20037 - M Irfan
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/logout
+IDaction : *
+Action : User logout
+TGL : 15/Aug/2020 11:04:53 AM
+==========================================================
+
+IDuser : 20037 - M Irfan
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/authLogin
+IDaction : 20037
+Action : Login succes
+TGL : 15/Aug/2020 11:18:33 AM
+==========================================================
+
+IDuser : 20037 - M Irfan
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 15/Aug/2020 11:18:33 AM
+==========================================================
+
+IDuser : 20037 - M Irfan
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_dokumen/cekDokumen
+IDaction : 6
+Action : Cek dokumen
+TGL : 15/Aug/2020 11:18:37 AM
+==========================================================
+
+IDuser : 20037 - M Irfan
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_dokumen/cekDokumen
+IDaction : 6
+Action : Cek dokumen
+TGL : 15/Aug/2020 11:19:21 AM
+==========================================================
+
+IDuser : 20037 - M Irfan
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_berita/index
+IDaction : *
+Action : Cek all berita
+TGL : 15/Aug/2020 11:23:06 AM
+==========================================================
+
+IDuser : 20037 - M Irfan
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_berita/readNews
+IDaction : 100015
+Action : Baca berita
+TGL : 15/Aug/2020 11:23:08 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_login_register/authLogin
+IDaction : 20032
+Action : Login succes
+TGL : 15/Aug/2020 02:20:08 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 15/Aug/2020 02:20:08 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opdGaleri/index
+IDaction : *
+Action : Cek all galeri for user
+TGL : 15/Aug/2020 02:21:36 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opdGaleri/galeriAdmin
+IDaction : *
+Action : Cek all galeri for admin
+TGL : 15/Aug/2020 02:21:45 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opdGaleri/updateGaleri
+IDaction : 3041
+Action : Form update galeri
+TGL : 15/Aug/2020 02:22:16 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opdGaleri/doUpdateGaleri
+IDaction : 3041
+Action : Update galeri succes
+TGL : 15/Aug/2020 02:22:44 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opdGaleri/galeriAdmin
+IDaction : *
+Action : Cek all galeri for admin
+TGL : 15/Aug/2020 02:22:44 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opd/logout
+IDaction : *
+Action : User logout
+TGL : 15/Aug/2020 02:25:07 PM
+==========================================================
+
+IDuser : 20037 - M Irfan
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/authLogin
+IDaction : 20037
+Action : Login succes
+TGL : 15/Aug/2020 02:25:17 PM
+==========================================================
+
+IDuser : 20037 - M Irfan
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 15/Aug/2020 02:25:17 PM
+==========================================================
+
+IDuser : 20037 - M Irfan
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opdGaleri/index
+IDaction : *
+Action : Cek all galeri for user
+TGL : 15/Aug/2020 02:25:20 PM
+==========================================================
+
+IDuser : 20037 - M Irfan
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/logout
+IDaction : *
+Action : User logout
+TGL : 15/Aug/2020 04:10:38 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_login_register/authLogin
+IDaction : 20032
+Action : Login succes
+TGL : 15/Aug/2020 04:10:49 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 15/Aug/2020 04:10:49 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 15/Aug/2020 04:13:57 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 15/Aug/2020 04:14:01 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 15/Aug/2020 04:14:05 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 15/Aug/2020 04:14:11 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_berita/index
+IDaction : *
+Action : Cek all berita
+TGL : 15/Aug/2020 04:34:22 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_berita/readNews
+IDaction : 100015
+Action : Baca berita
+TGL : 15/Aug/2020 04:41:05 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_berita/readNews
+IDaction : 100015
+Action : Baca berita
+TGL : 15/Aug/2020 04:44:48 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_berita/updateNews
+IDaction : 100015
+Action : Update berita succes
+TGL : 15/Aug/2020 04:49:54 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_berita/updateNews
+IDaction : 100015
+Action : Update berita succes
+TGL : 15/Aug/2020 04:51:14 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_berita/updateNews
+IDaction : 100015
+Action : Update berita succes
+TGL : 15/Aug/2020 04:51:22 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_berita/index
+IDaction : *
+Action : Cek all berita
+TGL : 15/Aug/2020 04:55:04 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_berita/addBerita
+IDaction : *
+Action : Form add berita
+TGL : 15/Aug/2020 04:55:28 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_berita/index
+IDaction : *
+Action : Cek all berita
+TGL : 15/Aug/2020 04:55:42 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_berita/updateNews
+IDaction : 100015
+Action : Update berita succes
+TGL : 15/Aug/2020 04:55:44 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_berita/updateNews
+IDaction : 100015
+Action : Update berita succes
+TGL : 15/Aug/2020 04:56:18 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_berita/addBerita
+IDaction : *
+Action : Form add berita
+TGL : 15/Aug/2020 04:56:49 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 15/Aug/2020 04:57:06 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_berita/addBerita
+IDaction : *
+Action : Form add berita
+TGL : 15/Aug/2020 04:57:12 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opdGaleri/galeriAdmin
+IDaction : *
+Action : Cek all galeri for admin
+TGL : 15/Aug/2020 05:14:50 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opdGaleri/addGaleri
+IDaction : *
+Action : Form add galeri
+TGL : 15/Aug/2020 05:14:52 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opdGaleri/galeriAdmin
+IDaction : *
+Action : Cek all galeri for admin
+TGL : 15/Aug/2020 05:15:00 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opdGaleri/addGaleri
+IDaction : *
+Action : Form add galeri
+TGL : 15/Aug/2020 05:15:08 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opdGaleri/addGaleri
+IDaction : *
+Action : Form add galeri
+TGL : 15/Aug/2020 05:15:20 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opdGaleri/galeriAdmin
+IDaction : *
+Action : Cek all galeri for admin
+TGL : 15/Aug/2020 05:16:30 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opdGaleri/imgCarousel
+IDaction : *
+Action : Cek all carousel image for admin
+TGL : 15/Aug/2020 05:17:41 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opdGaleri/linkCarousel
+IDaction : *
+Action : Cek all carousel link for admin
+TGL : 15/Aug/2020 05:17:45 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opdGaleri/imgCarousel
+IDaction : *
+Action : Cek all carousel image for admin
+TGL : 15/Aug/2020 05:17:56 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opdGaleri/updateimgCarousel
+IDaction : 3008
+Action : Form update corousel image
+TGL : 15/Aug/2020 05:22:08 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opdGaleri/doUpdateimgCarousel
+IDaction : 3008
+Action : Update carousel image succes
+TGL : 15/Aug/2020 05:23:27 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opdGaleri/imgCarousel
+IDaction : *
+Action : Cek all carousel image for admin
+TGL : 15/Aug/2020 05:23:27 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opdGaleri/updateimgCarousel
+IDaction : 3008
+Action : Form update corousel image
+TGL : 15/Aug/2020 05:23:31 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opdGaleri/imgCarousel
+IDaction : *
+Action : Cek all carousel image for admin
+TGL : 15/Aug/2020 05:26:00 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opdGaleri/addimgCarousel
+IDaction : *
+Action : Form add corousel image
+TGL : 15/Aug/2020 05:26:10 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opdGaleri/linkCarousel
+IDaction : *
+Action : Cek all carousel link for admin
+TGL : 15/Aug/2020 05:30:25 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opdGaleri/updateLinkCarousel
+IDaction : 3028
+Action : Form update corousel link
+TGL : 15/Aug/2020 05:35:13 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opdGaleri/linkCarousel
+IDaction : *
+Action : Cek all carousel link for admin
+TGL : 15/Aug/2020 05:38:22 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opdGaleri/addLinkCarousel
+IDaction : *
+Action : Form add corousel link
+TGL : 15/Aug/2020 05:38:24 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opdGaleri/galeriAdmin
+IDaction : *
+Action : Cek all galeri for admin
+TGL : 15/Aug/2020 05:44:04 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opdGaleri/updateGaleri
+IDaction : 3041
+Action : Form update galeri
+TGL : 15/Aug/2020 05:47:03 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opdGaleri/galeriAdmin
+IDaction : *
+Action : Cek all galeri for admin
+TGL : 15/Aug/2020 05:49:26 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opdGaleri/addGaleri
+IDaction : *
+Action : Form add galeri
+TGL : 15/Aug/2020 05:49:29 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_dokumen/index
+IDaction : *
+Action : Cek all dokumen
+TGL : 15/Aug/2020 05:51:37 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_dokumen/updateDokumen
+IDaction : 6
+Action : Form update dokumen
+TGL : 15/Aug/2020 05:54:51 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_dokumen/index
+IDaction : *
+Action : Cek all dokumen
+TGL : 15/Aug/2020 05:59:40 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_dokumen/addDokumen
+IDaction : *
+Action : Form add dokumen
+TGL : 15/Aug/2020 05:59:42 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_user/index
+IDaction : *
+Action : Cek all user
+TGL : 15/Aug/2020 06:02:18 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_user/specificUser
+IDaction : 20032
+Action : Cek one user
+TGL : 15/Aug/2020 06:04:58 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_user/index
+IDaction : *
+Action : Cek all user
+TGL : 15/Aug/2020 06:07:51 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_user/specificUser
+IDaction : 20037
+Action : Cek one user
+TGL : 15/Aug/2020 06:07:53 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_login_register/authLogin
+IDaction : 20032
+Action : Login succes
+TGL : 15/Aug/2020 10:20:07 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 15/Aug/2020 10:20:07 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_berita/addBerita
+IDaction : *
+Action : Form add berita
+TGL : 15/Aug/2020 10:20:11 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 83.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opdGaleri/index
+IDaction : *
+Action : Cek all galeri for user
+TGL : 10/Dec/2020 08:57:26 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 83.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 10/Dec/2020 09:17:44 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 83.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opd/logout
+IDaction : *
+Action : User logout
+TGL : 10/Dec/2020 09:19:49 AM
+==========================================================
+
+IDuser : 2 - irfan
+IP : ::1
+Browser : Firefox 83.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 19/Dec/2020 03:27:51 PM
+==========================================================
+
+IDuser : 2 - irfan
+IP : ::1
+Browser : Firefox 83.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_dokumen/index
+IDaction : *
+Action : Cek all dokumen
+TGL : 19/Dec/2020 03:29:26 PM
+==========================================================
+
+IDuser : 2 - irfan
+IP : ::1
+Browser : Firefox 83.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_dokumen/index
+IDaction : *
+Action : Cek all dokumen
+TGL : 19/Dec/2020 03:35:43 PM
+==========================================================
+
+IDuser : 2 - irfan
+IP : ::1
+Browser : Firefox 83.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 19/Dec/2020 04:08:41 PM
+==========================================================
+
+IDuser : 2 - irfan
+IP : ::1
+Browser : Firefox 83.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_dokumen/index
+IDaction : *
+Action : Cek all dokumen
+TGL : 19/Dec/2020 04:08:46 PM
+==========================================================
+
+IDuser : 2 - irfan
+IP : ::1
+Browser : Firefox 83.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_dokumen/addDokumen
+IDaction : *
+Action : Form add dokumen
+TGL : 19/Dec/2020 04:08:48 PM
+==========================================================
+
+IDuser : 2 - irfan
+IP : ::1
+Browser : Firefox 83.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opd/logout
+IDaction : *
+Action : User logout
+TGL : 19/Dec/2020 04:08:58 PM
+==========================================================
+
+IDuser : 2 - irfan
+IP : ::1
+Browser : Firefox 83.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 19/Dec/2020 07:32:40 PM
+==========================================================
+
+IDuser : 2 - irfan
+IP : ::1
+Browser : Firefox 83.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opd/logout
+IDaction : *
+Action : User logout
+TGL : 19/Dec/2020 07:32:59 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 83.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_login_register/authLogin
+IDaction : 20032
+Action : Login succes
+TGL : 19/Dec/2020 07:34:32 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Firefox 83.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 19/Dec/2020 07:34:32 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : 127.0.0.1
+Browser : Firefox 84.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_login_register/authLogin
+IDaction : 20032
+Action : Login succes
+TGL : 30/Dec/2020 04:03:26 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : 127.0.0.1
+Browser : Firefox 84.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 30/Dec/2020 04:03:26 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : 127.0.0.1
+Browser : Firefox 84.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_berita/addBerita
+IDaction : *
+Action : Form add berita
+TGL : 30/Dec/2020 04:03:31 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : 127.0.0.1
+Browser : Firefox 84.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_berita/doAddBerita
+IDaction : *
+Action : Form add berita
+TGL : 30/Dec/2020 04:16:27 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : 127.0.0.1
+Browser : Firefox 84.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_berita/doAddBerita
+IDaction : *
+Action : Form add berita
+TGL : 30/Dec/2020 04:16:31 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : 127.0.0.1
+Browser : Firefox 85.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_login_register/authLogin
+IDaction : 20032
+Action : Login succes
+TGL : 30/Jan/2021 05:28:37 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : 127.0.0.1
+Browser : Firefox 85.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 30/Jan/2021 05:28:38 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : 127.0.0.1
+Browser : Firefox 85.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_berita/deleteNews
+IDaction : 100019
+Action : Delete berita succes
+TGL : 30/Jan/2021 05:28:55 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : 127.0.0.1
+Browser : Firefox 85.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_berita/index
+IDaction : *
+Action : Cek all berita
+TGL : 30/Jan/2021 05:28:55 PM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : 127.0.0.1
+Browser : Firefox 85.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_login_register/authLogin
+IDaction : 20032
+Action : Login succes
+TGL : 01/Feb/2021 08:52:39 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : 127.0.0.1
+Browser : Firefox 85.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 01/Feb/2021 08:52:39 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : 127.0.0.1
+Browser : Firefox 85.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_login_register/authLogin
+IDaction : 20032
+Action : Login succes
+TGL : 01/Feb/2021 11:09:35 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : 127.0.0.1
+Browser : Firefox 85.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 01/Feb/2021 11:09:35 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : 127.0.0.1
+Browser : Firefox 85.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opd/logout
+IDaction : *
+Action : User logout
+TGL : 01/Feb/2021 11:09:38 AM
+==========================================================
+
+IDuser : 20034 - jack way2
+IP : ::1
+Browser : Chrome 88.0.4324.104
+Platform : Windows 10
+Role : Admin
+URLpage : c_login_register/authLogin
+IDaction : 20034
+Action : Login succes
+TGL : 01/Feb/2021 11:11:13 AM
+==========================================================
+
+IDuser : 20034 - jack way2
+IP : ::1
+Browser : Chrome 88.0.4324.104
+Platform : Windows 10
+Role : Admin
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 01/Feb/2021 11:11:13 AM
+==========================================================
+
+IDuser : 20037 - M Irfan
+IP : 127.0.0.1
+Browser : Firefox 85.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/authLogin
+IDaction : 20037
+Action : Login succes
+TGL : 01/Feb/2021 11:11:37 AM
+==========================================================
+
+IDuser : 20037 - M Irfan
+IP : 127.0.0.1
+Browser : Firefox 85.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 01/Feb/2021 11:11:37 AM
+==========================================================
+
+IDuser : 20037 - M Irfan
+IP : 127.0.0.1
+Browser : Firefox 85.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/logout
+IDaction : *
+Action : User logout
+TGL : 01/Feb/2021 11:11:45 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Chrome 107.0.0.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_login_register/authLogin
+IDaction : 20032
+Action : Login succes
+TGL : 23/Nov/2022 11:26:44 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Chrome 107.0.0.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 23/Nov/2022 11:26:44 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Chrome 107.0.0.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opdGaleri/linkCarousel
+IDaction : *
+Action : Cek all carousel link for admin
+TGL : 23/Nov/2022 11:27:00 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Chrome 107.0.0.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_berita/index
+IDaction : *
+Action : Cek all berita
+TGL : 23/Nov/2022 11:27:21 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Chrome 107.0.0.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_berita/index
+IDaction : *
+Action : Cek all berita
+TGL : 23/Nov/2022 11:30:30 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Chrome 107.0.0.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_berita/readNews
+IDaction : 100010
+Action : Baca berita
+TGL : 23/Nov/2022 11:31:35 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Chrome 107.0.0.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_berita/readNews
+IDaction : 100010
+Action : Baca berita
+TGL : 23/Nov/2022 11:47:09 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Chrome 107.0.0.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 23/Nov/2022 11:47:24 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Chrome 107.0.0.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_berita/readNews
+IDaction : 100015
+Action : Baca berita
+TGL : 23/Nov/2022 11:47:28 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Chrome 107.0.0.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_user/profilUser
+IDaction : 20032
+Action : Cek profil user
+TGL : 23/Nov/2022 11:47:42 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Chrome 107.0.0.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opd/logout
+IDaction : *
+Action : User logout
+TGL : 23/Nov/2022 11:47:47 AM
+==========================================================
+
+IDuser : 20034 - jack way2
+IP : ::1
+Browser : Chrome 107.0.0.0
+Platform : Windows 10
+Role : Admin
+URLpage : c_login_register/authLogin
+IDaction : 20034
+Action : Login succes
+TGL : 23/Nov/2022 11:48:23 AM
+==========================================================
+
+IDuser : 20034 - jack way2
+IP : ::1
+Browser : Chrome 107.0.0.0
+Platform : Windows 10
+Role : Admin
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 23/Nov/2022 11:48:23 AM
+==========================================================
+
+IDuser : 20034 - jack way2
+IP : ::1
+Browser : Chrome 107.0.0.0
+Platform : Windows 10
+Role : Admin
+URLpage : c_opd/logout
+IDaction : *
+Action : User logout
+TGL : 23/Nov/2022 11:49:09 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Chrome 107.0.0.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_login_register/authLogin
+IDaction : 20032
+Action : Login succes
+TGL : 23/Nov/2022 11:49:19 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Chrome 107.0.0.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 23/Nov/2022 11:49:19 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Chrome 107.0.0.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_user/index
+IDaction : *
+Action : Cek all user
+TGL : 23/Nov/2022 11:49:22 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Chrome 107.0.0.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_user/specificUser
+IDaction : 20032
+Action : Cek one user
+TGL : 23/Nov/2022 11:49:25 AM
+==========================================================
+
+IDuser : 20032 - ifan way
+IP : ::1
+Browser : Chrome 107.0.0.0
+Platform : Windows 10
+Role : Super Admin
+URLpage : c_opd/logout
+IDaction : *
+Action : User logout
+TGL : 23/Nov/2022 11:49:40 AM
+==========================================================
+
+IDuser : 20035 - roki
+IP : ::1
+Browser : Chrome 107.0.0.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/authLogin
+IDaction : 20035
+Action : Login succes
+TGL : 23/Nov/2022 11:50:36 AM
+==========================================================
+
+IDuser : 20035 - roki
+IP : ::1
+Browser : Chrome 107.0.0.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 23/Nov/2022 11:50:36 AM
+==========================================================
+
+IDuser : 20035 - roki
+IP : ::1
+Browser : Chrome 107.0.0.0
+Platform : Windows 10
+Role : User
+URLpage : c_user/profilUser
+IDaction : 20035
+Action : Cek profil user
+TGL : 23/Nov/2022 11:50:40 AM
+==========================================================
+
+IDuser : 20035 - roki
+IP : ::1
+Browser : Chrome 107.0.0.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 23/Nov/2022 11:50:43 AM
+==========================================================
+
+IDuser : 20035 - roki
+IP : ::1
+Browser : Chrome 107.0.0.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 23/Nov/2022 11:53:37 AM
+==========================================================
+
+IDuser : 20035 - roki
+IP : ::1
+Browser : Chrome 107.0.0.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 23/Nov/2022 11:53:42 AM
+==========================================================
+
+IDuser : 20035 - roki
+IP : ::1
+Browser : Chrome 107.0.0.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 23/Nov/2022 11:54:05 AM
+==========================================================
+
+IDuser : 20035 - roki
+IP : ::1
+Browser : Chrome 107.0.0.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 23/Nov/2022 11:55:29 AM
+==========================================================
+
+IDuser : 20035 - roki
+IP : ::1
+Browser : Chrome 107.0.0.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 23/Nov/2022 11:56:10 AM
+==========================================================
+
+IDuser : 20035 - roki
+IP : ::1
+Browser : Chrome 107.0.0.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 23/Nov/2022 11:56:45 AM
+==========================================================
+
+IDuser : 20035 - roki
+IP : ::1
+Browser : Chrome 107.0.0.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 23/Nov/2022 11:57:29 AM
+==========================================================
+
+IDuser : 20035 - roki
+IP : ::1
+Browser : Chrome 107.0.0.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 23/Nov/2022 11:58:13 AM
+==========================================================
+
+IDuser : 20035 - roki
+IP : ::1
+Browser : Chrome 107.0.0.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 23/Nov/2022 11:58:31 AM
+==========================================================
+
+IDuser : 20035 - roki
+IP : ::1
+Browser : Chrome 107.0.0.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 23/Nov/2022 11:58:58 AM
+==========================================================
+
+IDuser : 20035 - roki
+IP : ::1
+Browser : Chrome 107.0.0.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 23/Nov/2022 11:59:15 AM
+==========================================================
+
+IDuser : 20035 - roki
+IP : ::1
+Browser : Chrome 107.0.0.0
+Platform : Windows 10
+Role : User
+URLpage : c_berita/readNews
+IDaction : 100013
+Action : Baca berita
+TGL : 23/Nov/2022 12:00:44 PM
+==========================================================
+
+IDuser : 20035 - roki
+IP : ::1
+Browser : Chrome 107.0.0.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 23/Nov/2022 12:01:23 PM
+==========================================================
+
+IDuser : 20035 - roki
+IP : ::1
+Browser : Chrome 107.0.0.0
+Platform : Windows 10
+Role : User
+URLpage : c_berita/readNews
+IDaction : 100012
+Action : Baca berita
+TGL : 23/Nov/2022 12:01:27 PM
+==========================================================
+
+IDuser : 20035 - roki
+IP : ::1
+Browser : Chrome 107.0.0.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 23/Nov/2022 12:01:56 PM
+==========================================================
+
+IDuser : 20035 - roki
+IP : ::1
+Browser : Chrome 107.0.0.0
+Platform : Windows 10
+Role : User
+URLpage : c_berita/readNews
+IDaction : 100015
+Action : Baca berita
+TGL : 23/Nov/2022 12:02:37 PM
+==========================================================
+
+IDuser : 20035 - roki
+IP : ::1
+Browser : Chrome 107.0.0.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 23/Nov/2022 12:03:12 PM
+==========================================================
+
+IDuser : 20035 - roki
+IP : ::1
+Browser : Chrome 107.0.0.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 23/Nov/2022 12:46:26 PM
+==========================================================

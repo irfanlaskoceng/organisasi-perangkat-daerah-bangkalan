@@ -1,0 +1,4599 @@
+======================== Log User ========================
+
+IDuser : null
+IP : 192.168.43.1
+Browser : Chrome 80.0.3987.119
+Platform : Android
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 24/Jul/2020 12:59:58 PM
+==========================================================
+
+IDuser : null
+IP : 192.168.43.1
+Browser : Chrome 80.0.3987.119
+Platform : Android
+Role : User
+URLpage : c_berita/readNews
+IDaction : 100029
+Action : Baca berita
+TGL : 24/Jul/2020 01:00:49 PM
+==========================================================
+
+IDuser : null
+IP : 192.168.43.1
+Browser : Chrome 80.0.3987.119
+Platform : Android
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 24/Jul/2020 01:06:42 PM
+==========================================================
+
+IDuser : null
+IP : 127.0.0.1
+Browser : Firefox 73.0
+Platform : Linux
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 24/Jul/2020 03:58:41 PM
+==========================================================
+
+IDuser : null
+IP : 127.0.0.1
+Browser : Firefox 73.0
+Platform : Linux
+Role : User
+URLpage : C_opdGaleri/index
+IDaction : *
+Action : Cek all galeri for user
+TGL : 24/Jul/2020 04:02:57 PM
+==========================================================
+
+IDuser : null
+IP : 127.0.0.1
+Browser : Firefox 73.0
+Platform : Linux
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 24/Jul/2020 04:23:51 PM
+==========================================================
+
+IDuser : null
+IP : 127.0.0.1
+Browser : Firefox 73.0
+Platform : Linux
+Role : User
+URLpage : c_opdGaleri/index
+IDaction : *
+Action : Cek all galeri for user
+TGL : 24/Jul/2020 04:24:56 PM
+==========================================================
+
+IDuser : null
+IP : 127.0.0.1
+Browser : Firefox 73.0
+Platform : Linux
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 24/Jul/2020 04:25:59 PM
+==========================================================
+
+IDuser : null
+IP : 127.0.0.1
+Browser : Firefox 73.0
+Platform : Linux
+Role : User
+URLpage : c_berita/index
+IDaction : *
+Action : Cek all berita
+TGL : 24/Jul/2020 04:28:21 PM
+==========================================================
+
+IDuser : null
+IP : 127.0.0.1
+Browser : Firefox 73.0
+Platform : Linux
+Role : User
+URLpage : c_berita/readNews
+IDaction : 100029
+Action : Baca berita
+TGL : 24/Jul/2020 04:28:24 PM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 78.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 27/Jul/2020 05:04:52 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 78.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/visiMisiOPD
+IDaction : *
+Action : Cek visi & misi
+TGL : 27/Jul/2020 05:05:06 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 78.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/visiMisiOPD
+IDaction : *
+Action : Cek visi & misi
+TGL : 27/Jul/2020 05:21:59 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 78.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 27/Jul/2020 05:22:15 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 78.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 27/Jul/2020 05:22:30 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 78.0
+Platform : Windows 10
+Role : User
+URLpage : c_opdGaleri/index
+IDaction : *
+Action : Cek all galeri for user
+TGL : 27/Jul/2020 05:22:45 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 78.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 27/Jul/2020 05:23:51 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 78.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 27/Jul/2020 05:23:51 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 78.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 27/Jul/2020 05:25:09 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 78.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/index
+IDaction : *
+Action : Form login
+TGL : 27/Jul/2020 06:39:07 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 78.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 27/Jul/2020 06:39:18 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 78.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 27/Jul/2020 06:39:21 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 78.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 27/Jul/2020 06:43:08 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 78.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 27/Jul/2020 06:44:22 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 78.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 27/Jul/2020 06:45:06 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 78.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 27/Jul/2020 07:02:35 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 78.0
+Platform : Windows 10
+Role : User
+URLpage : c_opdGaleri/index
+IDaction : *
+Action : Cek all galeri for user
+TGL : 27/Jul/2020 07:03:51 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 78.0
+Platform : Windows 10
+Role : User
+URLpage : c_opdGaleri/index
+IDaction : *
+Action : Cek all galeri for user
+TGL : 27/Jul/2020 07:14:34 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 78.0
+Platform : Windows 10
+Role : User
+URLpage : c_opdGaleri/index
+IDaction : *
+Action : Cek all galeri for user
+TGL : 27/Jul/2020 07:21:13 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 78.0
+Platform : Windows 10
+Role : User
+URLpage : c_opdGaleri/index
+IDaction : *
+Action : Cek all galeri for user
+TGL : 27/Jul/2020 07:25:26 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 78.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 27/Jul/2020 07:25:35 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 78.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 27/Jul/2020 09:25:53 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 78.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/visiMisiOPD
+IDaction : *
+Action : Cek visi & misi
+TGL : 27/Jul/2020 09:35:00 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 78.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 27/Jul/2020 09:35:05 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 78.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/visiMisiOPD
+IDaction : *
+Action : Cek visi & misi
+TGL : 27/Jul/2020 09:36:33 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 78.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/tugasDanFungsiOPD
+IDaction : *
+Action : Tugas & fungsi
+TGL : 27/Jul/2020 09:36:37 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 78.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/strukturOrganisasiOPD
+IDaction : *
+Action : Struktur organisasi
+TGL : 27/Jul/2020 09:36:41 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 78.0
+Platform : Windows 10
+Role : User
+URLpage : c_berita/index
+IDaction : *
+Action : Cek all berita
+TGL : 27/Jul/2020 09:36:55 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 78.0
+Platform : Windows 10
+Role : User
+URLpage : c_berita/readNews
+IDaction : 100015
+Action : Baca berita
+TGL : 27/Jul/2020 09:37:16 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 78.0
+Platform : Windows 10
+Role : User
+URLpage : c_berita/index
+IDaction : *
+Action : Cek all berita
+TGL : 27/Jul/2020 09:46:04 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 78.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 27/Jul/2020 09:46:07 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 78.0
+Platform : Windows 10
+Role : User
+URLpage : c_berita/index
+IDaction : *
+Action : Cek all berita
+TGL : 27/Jul/2020 09:46:09 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 78.0
+Platform : Windows 10
+Role : User
+URLpage : c_berita/readNews
+IDaction : 100015
+Action : Baca berita
+TGL : 27/Jul/2020 09:46:15 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 78.0
+Platform : Windows 10
+Role : User
+URLpage : c_berita/index
+IDaction : *
+Action : Cek all berita
+TGL : 27/Jul/2020 09:46:18 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 78.0
+Platform : Windows 10
+Role : User
+URLpage : c_berita/readNews
+IDaction : 100015
+Action : Baca berita
+TGL : 27/Jul/2020 09:46:20 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 78.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 27/Jul/2020 09:46:23 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 78.0
+Platform : Windows 10
+Role : User
+URLpage : c_dokumen/cekDokumen
+IDaction : 5
+Action : Cek dokumen
+TGL : 27/Jul/2020 09:46:27 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 78.0
+Platform : Windows 10
+Role : User
+URLpage : c_dokumen/cekDokumen
+IDaction : 5
+Action : Cek dokumen
+TGL : 27/Jul/2020 09:47:18 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 78.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 27/Jul/2020 09:47:22 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 78.0
+Platform : Windows 10
+Role : User
+URLpage : c_dokumen/cekDokumen
+IDaction : 6
+Action : Cek dokumen
+TGL : 27/Jul/2020 09:48:01 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 78.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 27/Jul/2020 09:48:16 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 78.0
+Platform : Windows 10
+Role : User
+URLpage : c_dokumen/cekDokumen
+IDaction : 7
+Action : Cek dokumen
+TGL : 27/Jul/2020 09:48:21 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 78.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 27/Jul/2020 09:48:38 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 78.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 27/Jul/2020 09:49:33 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 78.0
+Platform : Windows 10
+Role : User
+URLpage : C_login_register/index
+IDaction : *
+Action : Form login
+TGL : 27/Jul/2020 09:51:09 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 78.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 27/Jul/2020 09:51:49 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Chrome 84.0.4147.125
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 12/Aug/2020 04:51:49 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Chrome 84.0.4147.125
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 12/Aug/2020 04:52:02 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Chrome 84.0.4147.125
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 12/Aug/2020 04:52:20 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Chrome 84.0.4147.125
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 12/Aug/2020 04:52:27 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Chrome 84.0.4147.125
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 12/Aug/2020 04:52:33 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Chrome 84.0.4147.125
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 12/Aug/2020 04:52:39 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Chrome 84.0.4147.125
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 12/Aug/2020 04:52:46 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Chrome 84.0.4147.125
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 12/Aug/2020 04:53:11 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Chrome 84.0.4147.125
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 12/Aug/2020 04:55:03 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Chrome 84.0.4147.125
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 12/Aug/2020 04:55:18 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Chrome 84.0.4147.125
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 12/Aug/2020 04:56:52 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Chrome 84.0.4147.125
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 12/Aug/2020 04:56:57 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Chrome 84.0.4147.125
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 12/Aug/2020 04:57:01 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Chrome 84.0.4147.125
+Platform : Windows 10
+Role : User
+URLpage : c_berita/index
+IDaction : *
+Action : Cek all berita
+TGL : 12/Aug/2020 04:58:17 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Chrome 84.0.4147.125
+Platform : Windows 10
+Role : User
+URLpage : c_berita/readNews
+IDaction : 100013
+Action : Baca berita
+TGL : 12/Aug/2020 04:58:20 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Chrome 84.0.4147.125
+Platform : Windows 10
+Role : User
+URLpage : c_dokumen/cekDokumen
+IDaction : 5
+Action : Cek dokumen
+TGL : 12/Aug/2020 04:59:23 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Chrome 84.0.4147.125
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 12/Aug/2020 04:59:44 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Chrome 84.0.4147.125
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 12/Aug/2020 05:01:29 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Chrome 84.0.4147.125
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 12/Aug/2020 05:18:18 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Chrome 84.0.4147.125
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 12/Aug/2020 05:18:20 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Chrome 84.0.4147.125
+Platform : Windows 10
+Role : User
+URLpage : c_opd/visiMisiOPD
+IDaction : *
+Action : Cek visi & misi
+TGL : 12/Aug/2020 05:18:22 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Chrome 84.0.4147.125
+Platform : Windows 10
+Role : User
+URLpage : c_dokumen/cekDokumen
+IDaction : 6
+Action : Cek dokumen
+TGL : 12/Aug/2020 05:18:25 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Chrome 84.0.4147.125
+Platform : Windows 10
+Role : User
+URLpage : c_opdGaleri/index
+IDaction : *
+Action : Cek all galeri for user
+TGL : 12/Aug/2020 05:18:27 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Chrome 84.0.4147.125
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 12/Aug/2020 05:20:30 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Chrome 84.0.4147.125
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 12/Aug/2020 05:22:46 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Chrome 84.0.4147.125
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/index
+IDaction : *
+Action : Form login
+TGL : 12/Aug/2020 05:22:51 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Chrome 84.0.4147.125
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 12/Aug/2020 05:35:55 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Chrome 84.0.4147.125
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 12/Aug/2020 05:48:12 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Chrome 84.0.4147.125
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 12/Aug/2020 05:51:40 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Chrome 84.0.4147.125
+Platform : Windows 10
+Role : User
+URLpage : c_berita/index
+IDaction : *
+Action : Cek all berita
+TGL : 12/Aug/2020 05:51:46 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Chrome 84.0.4147.125
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/index
+IDaction : *
+Action : Form login
+TGL : 12/Aug/2020 05:51:57 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Chrome 84.0.4147.125
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 12/Aug/2020 06:12:36 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Chrome 84.0.4147.125
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 12/Aug/2020 06:12:44 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Chrome 84.0.4147.105
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 12/Aug/2020 06:16:06 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Chrome 84.0.4147.105
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/index
+IDaction : *
+Action : Form login
+TGL : 12/Aug/2020 06:18:59 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Chrome 84.0.4147.125
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 12/Aug/2020 06:19:13 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Chrome 84.0.4147.125
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/index
+IDaction : *
+Action : Form login
+TGL : 12/Aug/2020 06:19:19 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Chrome 84.0.4147.125
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 12/Aug/2020 06:21:05 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Chrome 84.0.4147.125
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 12/Aug/2020 06:24:14 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Chrome 84.0.4147.125
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 12/Aug/2020 06:24:36 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Chrome 84.0.4147.125
+Platform : Windows 10
+Role : User
+URLpage : c_berita/readNews
+IDaction : 100015
+Action : Baca berita
+TGL : 12/Aug/2020 06:25:40 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Chrome 84.0.4147.125
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 12/Aug/2020 06:30:39 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Chrome 84.0.4147.125
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 12/Aug/2020 06:36:47 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 12/Aug/2020 06:46:59 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_berita/readNews
+IDaction : 100015
+Action : Baca berita
+TGL : 12/Aug/2020 06:47:35 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 12/Aug/2020 06:51:18 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 12/Aug/2020 06:51:20 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/index
+IDaction : *
+Action : Form login
+TGL : 12/Aug/2020 06:51:34 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/index
+IDaction : *
+Action : Form login
+TGL : 12/Aug/2020 06:52:52 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 12/Aug/2020 06:53:52 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/index
+IDaction : *
+Action : Form login
+TGL : 12/Aug/2020 06:56:05 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 12/Aug/2020 12:07:38 PM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 12/Aug/2020 12:11:20 PM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/visiMisiOPD
+IDaction : *
+Action : Cek visi & misi
+TGL : 12/Aug/2020 12:11:30 PM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 12/Aug/2020 12:13:46 PM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_berita/index
+IDaction : *
+Action : Cek all berita
+TGL : 12/Aug/2020 12:14:18 PM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/index
+IDaction : *
+Action : Form login
+TGL : 12/Aug/2020 12:14:32 PM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 12/Aug/2020 05:21:02 PM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/visiMisiOPD
+IDaction : *
+Action : Cek visi & misi
+TGL : 12/Aug/2020 05:21:07 PM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/tugasDanFungsiOPD
+IDaction : *
+Action : Tugas & fungsi
+TGL : 12/Aug/2020 05:21:10 PM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 13/Aug/2020 10:23:25 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/index
+IDaction : *
+Action : Form login
+TGL : 13/Aug/2020 10:39:38 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 14/Aug/2020 08:23:26 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 14/Aug/2020 08:38:04 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 14/Aug/2020 08:38:23 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 14/Aug/2020 08:41:04 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 14/Aug/2020 08:41:19 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 14/Aug/2020 08:42:03 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 14/Aug/2020 08:49:31 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 14/Aug/2020 08:49:54 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 14/Aug/2020 08:50:41 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 14/Aug/2020 08:52:16 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 14/Aug/2020 08:52:45 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 14/Aug/2020 08:52:46 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 14/Aug/2020 08:53:05 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 14/Aug/2020 08:53:13 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 14/Aug/2020 08:53:19 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 14/Aug/2020 08:53:28 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 14/Aug/2020 08:54:07 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 14/Aug/2020 08:55:26 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 14/Aug/2020 08:55:32 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 14/Aug/2020 08:55:43 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 14/Aug/2020 08:55:45 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 14/Aug/2020 08:55:54 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 14/Aug/2020 08:56:02 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 14/Aug/2020 08:56:08 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 14/Aug/2020 08:56:15 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 14/Aug/2020 08:56:28 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 14/Aug/2020 08:56:56 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 14/Aug/2020 08:57:05 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 14/Aug/2020 08:57:13 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 14/Aug/2020 08:57:21 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 14/Aug/2020 08:59:14 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/index
+IDaction : *
+Action : Form login
+TGL : 14/Aug/2020 08:59:17 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/register
+IDaction : *
+Action : Form registern
+TGL : 14/Aug/2020 08:59:28 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 14/Aug/2020 09:00:42 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/index
+IDaction : *
+Action : Form login
+TGL : 14/Aug/2020 09:00:44 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 14/Aug/2020 09:00:46 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/register
+IDaction : *
+Action : Form registern
+TGL : 14/Aug/2020 09:00:48 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 14/Aug/2020 09:00:57 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 14/Aug/2020 09:13:36 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_berita/readNews
+IDaction : 100015
+Action : Baca berita
+TGL : 14/Aug/2020 09:13:40 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_berita/readNews
+IDaction : 100015
+Action : Baca berita
+TGL : 14/Aug/2020 09:13:56 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_berita/readNews
+IDaction : 100015
+Action : Baca berita
+TGL : 14/Aug/2020 09:15:27 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_berita/readNews
+IDaction : 100015
+Action : Baca berita
+TGL : 14/Aug/2020 09:22:05 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/index
+IDaction : *
+Action : Form login
+TGL : 14/Aug/2020 09:23:00 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 14/Aug/2020 09:40:31 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/index
+IDaction : *
+Action : Form login
+TGL : 14/Aug/2020 01:23:34 PM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 14/Aug/2020 02:46:20 PM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/register
+IDaction : *
+Action : Form registern
+TGL : 14/Aug/2020 02:46:24 PM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/index
+IDaction : *
+Action : Form login
+TGL : 14/Aug/2020 02:55:55 PM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 14/Aug/2020 02:56:51 PM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/index
+IDaction : *
+Action : Form login
+TGL : 14/Aug/2020 02:56:54 PM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 14/Aug/2020 06:25:05 PM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/index
+IDaction : *
+Action : Form login
+TGL : 14/Aug/2020 06:25:08 PM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/register
+IDaction : *
+Action : Form registern
+TGL : 14/Aug/2020 06:46:42 PM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/index
+IDaction : *
+Action : Form login
+TGL : 14/Aug/2020 08:04:22 PM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 14/Aug/2020 08:04:23 PM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/register
+IDaction : *
+Action : Form registern
+TGL : 14/Aug/2020 08:10:12 PM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/verify_email
+IDaction : *
+Action : Email veritication succes
+TGL : 14/Aug/2020 08:37:26 PM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/verify_email
+IDaction : *
+Action : Email veritication invalid
+TGL : 14/Aug/2020 08:48:47 PM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/verify_email
+IDaction : *
+Action : Email veritication invalid
+TGL : 14/Aug/2020 08:56:03 PM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/index_forgetPasswor
+IDaction : *
+Action : Form forget password
+TGL : 14/Aug/2020 09:02:18 PM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/verify_password
+IDaction : *
+Action : Password veritication succes
+TGL : 14/Aug/2020 09:21:55 PM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/verify_password
+IDaction : *
+Action : Password veritication succes
+TGL : 14/Aug/2020 09:22:01 PM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/updatePassword
+IDaction : 76d4a1f5415309f75eb8a7d5b21376db
+Action : Update password succes
+TGL : 14/Aug/2020 09:29:58 PM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/index
+IDaction : *
+Action : Form login
+TGL : 14/Aug/2020 09:29:58 PM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 14/Aug/2020 09:30:19 PM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/index
+IDaction : *
+Action : Form login
+TGL : 14/Aug/2020 09:30:28 PM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/index_forgetPasswor
+IDaction : *
+Action : Form forget password
+TGL : 14/Aug/2020 09:30:41 PM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/verify_password
+IDaction : *
+Action : Password veritication succes
+TGL : 14/Aug/2020 09:31:06 PM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/updatePassword
+IDaction : bf4580d3c9ca451490ddffb5776c02af
+Action : Update password succes
+TGL : 14/Aug/2020 09:31:17 PM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/index
+IDaction : *
+Action : Form login
+TGL : 14/Aug/2020 09:31:17 PM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 14/Aug/2020 09:31:50 PM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/verify_password
+IDaction : *
+Action : Password veritication invalid
+TGL : 14/Aug/2020 09:31:56 PM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 15/Aug/2020 08:05:58 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 15/Aug/2020 08:29:14 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_berita/index
+IDaction : *
+Action : Cek all berita
+TGL : 15/Aug/2020 08:39:16 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 15/Aug/2020 08:39:41 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/index
+IDaction : *
+Action : Form login
+TGL : 15/Aug/2020 08:51:10 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 15/Aug/2020 09:11:07 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 15/Aug/2020 09:39:31 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_berita/readNews
+IDaction : 100013
+Action : Baca berita
+TGL : 15/Aug/2020 09:39:34 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 15/Aug/2020 09:39:45 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_berita/readNews
+IDaction : 100013
+Action : Baca berita
+TGL : 15/Aug/2020 09:40:41 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_berita/readNews
+IDaction : 100013
+Action : Baca berita
+TGL : 15/Aug/2020 09:45:06 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_berita/readNews
+IDaction : 100013
+Action : Baca berita
+TGL : 15/Aug/2020 09:45:12 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_berita/readNews
+IDaction : 100013
+Action : Baca berita
+TGL : 15/Aug/2020 09:45:17 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_berita/readNews
+IDaction : 100013
+Action : Baca berita
+TGL : 15/Aug/2020 09:45:24 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_berita/index
+IDaction : *
+Action : Cek all berita
+TGL : 15/Aug/2020 09:45:34 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_berita/readNews
+IDaction : 100015
+Action : Baca berita
+TGL : 15/Aug/2020 09:45:36 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_berita/readNews
+IDaction : 100015
+Action : Baca berita
+TGL : 15/Aug/2020 09:46:53 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_berita/readNews
+IDaction : 100015
+Action : Baca berita
+TGL : 15/Aug/2020 09:47:19 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/index
+IDaction : *
+Action : Form login
+TGL : 15/Aug/2020 09:54:25 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/index
+IDaction : *
+Action : Form login
+TGL : 15/Aug/2020 09:54:47 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 15/Aug/2020 09:56:39 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/index
+IDaction : *
+Action : Form login
+TGL : 15/Aug/2020 09:56:41 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 15/Aug/2020 09:59:30 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/index
+IDaction : *
+Action : Form login
+TGL : 15/Aug/2020 10:00:09 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/index
+IDaction : *
+Action : Form login
+TGL : 15/Aug/2020 10:00:17 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 15/Aug/2020 10:00:57 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/index
+IDaction : *
+Action : Form login
+TGL : 15/Aug/2020 10:01:00 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 15/Aug/2020 10:01:21 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/index
+IDaction : *
+Action : Form login
+TGL : 15/Aug/2020 10:01:24 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/index
+IDaction : *
+Action : Form login
+TGL : 15/Aug/2020 10:02:22 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 15/Aug/2020 10:04:46 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/index
+IDaction : *
+Action : Form login
+TGL : 15/Aug/2020 10:04:49 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 15/Aug/2020 10:06:56 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/index
+IDaction : *
+Action : Form login
+TGL : 15/Aug/2020 10:06:59 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 15/Aug/2020 10:07:24 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/index
+IDaction : *
+Action : Form login
+TGL : 15/Aug/2020 10:07:26 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/index
+IDaction : *
+Action : Form login
+TGL : 15/Aug/2020 10:11:07 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 15/Aug/2020 10:13:26 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_berita/readNews
+IDaction : 100015
+Action : Baca berita
+TGL : 15/Aug/2020 10:13:30 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opdGaleri/index
+IDaction : *
+Action : Cek all galeri for user
+TGL : 15/Aug/2020 10:26:10 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 15/Aug/2020 10:31:58 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/index
+IDaction : *
+Action : Form login
+TGL : 15/Aug/2020 10:32:00 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 15/Aug/2020 10:32:12 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/index
+IDaction : *
+Action : Form login
+TGL : 15/Aug/2020 10:32:14 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 15/Aug/2020 11:04:53 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_dokumen/cekDokumen
+IDaction : 6
+Action : Cek dokumen
+TGL : 15/Aug/2020 11:17:42 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/index
+IDaction : *
+Action : Form login
+TGL : 15/Aug/2020 11:18:24 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 15/Aug/2020 02:19:43 PM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_berita/index
+IDaction : *
+Action : Cek all berita
+TGL : 15/Aug/2020 02:19:48 PM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/index
+IDaction : *
+Action : Form login
+TGL : 15/Aug/2020 02:19:51 PM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 15/Aug/2020 02:25:08 PM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/index
+IDaction : *
+Action : Form login
+TGL : 15/Aug/2020 02:25:10 PM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 15/Aug/2020 04:10:38 PM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/index
+IDaction : *
+Action : Form login
+TGL : 15/Aug/2020 04:10:40 PM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 15/Aug/2020 04:14:30 PM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 15/Aug/2020 09:50:51 PM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/register
+IDaction : *
+Action : Form registern
+TGL : 15/Aug/2020 09:50:55 PM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/index
+IDaction : *
+Action : Form login
+TGL : 15/Aug/2020 10:19:59 PM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 16/Aug/2020 08:14:42 PM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 16/Aug/2020 08:14:46 PM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Chrome 84.0.4147.125
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 17/Aug/2020 03:40:03 PM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 79.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 17/Aug/2020 03:40:15 PM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 80.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 10/Sep/2020 04:34:54 PM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 80.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 10/Sep/2020 04:34:57 PM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 80.0
+Platform : Windows 10
+Role : User
+URLpage : c_berita/index
+IDaction : *
+Action : Cek all berita
+TGL : 10/Sep/2020 04:36:04 PM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 80.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/index
+IDaction : *
+Action : Form login
+TGL : 10/Sep/2020 04:47:39 PM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 83.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 28/Nov/2020 01:23:20 PM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 83.0
+Platform : Windows 10
+Role : User
+URLpage : c_berita/readNews
+IDaction : 100015
+Action : Baca berita
+TGL : 28/Nov/2020 01:23:34 PM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 83.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/index
+IDaction : *
+Action : Form login
+TGL : 28/Nov/2020 01:24:07 PM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 83.0
+Platform : Windows 10
+Role : User
+URLpage : c_berita/readNews
+IDaction : 100015
+Action : Baca berita
+TGL : 28/Nov/2020 01:24:09 PM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 83.0
+Platform : Windows 10
+Role : User
+URLpage : c_opdGaleri/index
+IDaction : *
+Action : Cek all galeri for user
+TGL : 28/Nov/2020 01:24:11 PM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 83.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 28/Nov/2020 01:24:24 PM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 83.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/strukturOrganisasiOPD
+IDaction : *
+Action : Struktur organisasi
+TGL : 28/Nov/2020 01:24:36 PM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 83.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 28/Nov/2020 01:25:35 PM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 83.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/visiMisiOPD
+IDaction : *
+Action : Cek visi & misi
+TGL : 28/Nov/2020 01:25:37 PM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 83.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 08/Dec/2020 07:35:08 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 83.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/register
+IDaction : *
+Action : Form registern
+TGL : 08/Dec/2020 07:36:09 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 83.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/index
+IDaction : *
+Action : Form login
+TGL : 08/Dec/2020 07:36:28 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 83.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/index_forgetPasswor
+IDaction : *
+Action : Form forget password
+TGL : 08/Dec/2020 07:36:31 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 83.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/verify_password
+IDaction : *
+Action : Password veritication succes
+TGL : 08/Dec/2020 07:37:57 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 83.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/verify_password
+IDaction : *
+Action : Password veritication succes
+TGL : 08/Dec/2020 07:38:06 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 83.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/index_forgetPasswor
+IDaction : *
+Action : Form forget password
+TGL : 08/Dec/2020 07:38:30 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 83.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/index
+IDaction : *
+Action : Form login
+TGL : 08/Dec/2020 07:38:31 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 83.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/register
+IDaction : *
+Action : Form registern
+TGL : 08/Dec/2020 07:38:32 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 83.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 08/Dec/2020 07:38:33 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 83.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/index
+IDaction : *
+Action : Form login
+TGL : 08/Dec/2020 07:38:40 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 83.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 08/Dec/2020 07:39:07 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 83.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 08/Dec/2020 07:39:54 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 83.0
+Platform : Windows 10
+Role : User
+URLpage : c_berita/readNews
+IDaction : 100013
+Action : Baca berita
+TGL : 08/Dec/2020 07:40:05 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 83.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 08/Dec/2020 07:40:47 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 83.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/index
+IDaction : *
+Action : Form login
+TGL : 08/Dec/2020 06:09:11 PM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 83.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 09/Dec/2020 08:32:43 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 83.0
+Platform : Windows 10
+Role : User
+URLpage : c_opdGaleri/index
+IDaction : *
+Action : Cek all galeri for user
+TGL : 09/Dec/2020 08:32:51 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 83.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 09/Dec/2020 08:43:37 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Chrome 86.0.4240.111
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 09/Dec/2020 08:44:12 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Chrome 86.0.4240.111
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 09/Dec/2020 08:45:07 AM
+==========================================================
+
+IDuser : null
+IP : 192.168.43.1
+Browser : Chrome 86.0.4240.99
+Platform : Android
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 09/Dec/2020 08:47:26 AM
+==========================================================
+
+IDuser : null
+IP : 192.168.43.1
+Browser : Chrome 86.0.4240.99
+Platform : Android
+Role : User
+URLpage : c_berita/readNews
+IDaction : 100019
+Action : Baca berita
+TGL : 09/Dec/2020 08:48:07 AM
+==========================================================
+
+IDuser : null
+IP : 192.168.43.1
+Browser : Chrome 86.0.4240.99
+Platform : Android
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 09/Dec/2020 08:48:31 AM
+==========================================================
+
+IDuser : null
+IP : 192.168.43.1
+Browser : Chrome 86.0.4240.99
+Platform : Android
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 09/Dec/2020 09:40:30 PM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 83.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 10/Dec/2020 08:17:06 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 83.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 10/Dec/2020 08:17:19 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 83.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 10/Dec/2020 08:17:35 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 83.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 10/Dec/2020 08:19:05 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 83.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 10/Dec/2020 08:19:11 AM
+==========================================================
+
+IDuser : null
+IP : 192.168.43.1
+Browser : Chrome 86.0.4240.99
+Platform : Android
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 10/Dec/2020 09:18:18 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 83.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 10/Dec/2020 09:19:50 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 83.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 10/Dec/2020 09:22:14 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 83.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 10/Dec/2020 09:37:00 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 83.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 10/Dec/2020 09:42:59 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Chrome 86.0.4240.111
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 10/Dec/2020 09:43:06 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 83.0
+Platform : Windows 10
+Role : User
+URLpage : c_berita/readNews
+IDaction : 100015
+Action : Baca berita
+TGL : 10/Dec/2020 09:44:38 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Chrome 86.0.4240.111
+Platform : Windows 10
+Role : User
+URLpage : c_berita/readNews
+IDaction : 100015
+Action : Baca berita
+TGL : 10/Dec/2020 09:44:51 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Chrome 86.0.4240.111
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 10/Dec/2020 09:45:19 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 83.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 10/Dec/2020 09:45:31 AM
+==========================================================
+
+IDuser : null
+IP : 192.168.43.1
+Browser : Chrome 86.0.4240.99
+Platform : Android
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 10/Dec/2020 09:54:21 AM
+==========================================================
+
+IDuser : null
+IP : 192.168.43.1
+Browser : Chrome 86.0.4240.99
+Platform : Android
+Role : User
+URLpage : c_berita/readNews
+IDaction : 100015
+Action : Baca berita
+TGL : 10/Dec/2020 09:55:42 AM
+==========================================================
+
+IDuser : null
+IP : 192.168.43.1
+Browser : Chrome 86.0.4240.99
+Platform : Android
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 10/Dec/2020 09:56:19 AM
+==========================================================
+
+IDuser : null
+IP : 192.168.43.1
+Browser : Chrome 86.0.4240.99
+Platform : Android
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 10/Dec/2020 10:03:32 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 83.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 10/Dec/2020 10:09:09 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Chrome 87.0.4280.88
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 10/Dec/2020 10:09:35 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Chrome 87.0.4280.88
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 10/Dec/2020 10:10:26 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 83.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 10/Dec/2020 02:48:51 PM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 83.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 10/Dec/2020 02:52:57 PM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 83.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 15/Dec/2020 08:22:38 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Chrome 86.0.4240.111
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 15/Dec/2020 08:23:10 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 83.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 15/Dec/2020 08:50:24 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 83.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 17/Dec/2020 09:10:40 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 83.0
+Platform : Windows 10
+Role : User
+URLpage : c_berita/readNews
+IDaction : 100013
+Action : Baca berita
+TGL : 19/Dec/2020 08:56:26 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 83.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 19/Dec/2020 08:56:28 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 83.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 19/Dec/2020 04:08:38 PM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 83.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 19/Dec/2020 04:08:58 PM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 83.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 19/Dec/2020 07:32:59 PM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 83.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 19/Dec/2020 07:34:04 PM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 83.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/index
+IDaction : *
+Action : Form login
+TGL : 19/Dec/2020 07:34:06 PM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 83.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 19/Dec/2020 07:34:54 PM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 83.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 19/Dec/2020 07:39:39 PM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 83.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/index
+IDaction : *
+Action : Form login
+TGL : 19/Dec/2020 07:39:41 PM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 83.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 19/Dec/2020 07:42:13 PM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Firefox 83.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/index
+IDaction : *
+Action : Form login
+TGL : 19/Dec/2020 07:42:15 PM
+==========================================================
+
+IDuser : null
+IP : 127.0.0.1
+Browser : Firefox 84.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 21/Dec/2020 12:05:41 AM
+==========================================================
+
+IDuser : null
+IP : 127.0.0.1
+Browser : Firefox 84.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/register
+IDaction : *
+Action : Form registern
+TGL : 21/Dec/2020 12:05:44 AM
+==========================================================
+
+IDuser : null
+IP : 127.0.0.1
+Browser : Firefox 84.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 21/Dec/2020 10:52:33 AM
+==========================================================
+
+IDuser : null
+IP : 127.0.0.1
+Browser : Firefox 84.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/index
+IDaction : *
+Action : Form login
+TGL : 21/Dec/2020 10:52:36 AM
+==========================================================
+
+IDuser : null
+IP : 127.0.0.1
+Browser : Firefox 84.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/register
+IDaction : *
+Action : Form registern
+TGL : 21/Dec/2020 10:52:41 AM
+==========================================================
+
+IDuser : null
+IP : 127.0.0.1
+Browser : Firefox 84.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 21/Dec/2020 07:24:55 PM
+==========================================================
+
+IDuser : null
+IP : 127.0.0.1
+Browser : Firefox 84.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 21/Dec/2020 07:25:00 PM
+==========================================================
+
+IDuser : null
+IP : 127.0.0.1
+Browser : Firefox 84.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 23/Dec/2020 10:30:50 PM
+==========================================================
+
+IDuser : null
+IP : 127.0.0.1
+Browser : Firefox 84.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/index
+IDaction : *
+Action : Form login
+TGL : 23/Dec/2020 10:30:53 PM
+==========================================================
+
+IDuser : null
+IP : 127.0.0.1
+Browser : Firefox 84.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 26/Dec/2020 09:20:26 PM
+==========================================================
+
+IDuser : null
+IP : 127.0.0.1
+Browser : Firefox 84.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/index
+IDaction : *
+Action : Form login
+TGL : 26/Dec/2020 09:20:29 PM
+==========================================================
+
+IDuser : null
+IP : 127.0.0.1
+Browser : Firefox 84.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/register
+IDaction : *
+Action : Form registern
+TGL : 26/Dec/2020 09:20:32 PM
+==========================================================
+
+IDuser : null
+IP : 127.0.0.1
+Browser : Firefox 84.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/register
+IDaction : *
+Action : Form registern
+TGL : 26/Dec/2020 09:22:25 PM
+==========================================================
+
+IDuser : null
+IP : 127.0.0.1
+Browser : Firefox 84.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 28/Dec/2020 07:29:46 PM
+==========================================================
+
+IDuser : null
+IP : 127.0.0.1
+Browser : Firefox 84.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/index
+IDaction : *
+Action : Form login
+TGL : 28/Dec/2020 07:29:49 PM
+==========================================================
+
+IDuser : null
+IP : 127.0.0.1
+Browser : Firefox 84.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 28/Dec/2020 07:29:55 PM
+==========================================================
+
+IDuser : null
+IP : 127.0.0.1
+Browser : Firefox 84.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 28/Dec/2020 07:30:00 PM
+==========================================================
+
+IDuser : null
+IP : 127.0.0.1
+Browser : Firefox 84.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 28/Dec/2020 07:55:36 PM
+==========================================================
+
+IDuser : null
+IP : 127.0.0.1
+Browser : Firefox 84.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 28/Dec/2020 08:34:28 PM
+==========================================================
+
+IDuser : null
+IP : 127.0.0.1
+Browser : Firefox 84.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 28/Dec/2020 08:55:03 PM
+==========================================================
+
+IDuser : null
+IP : 127.0.0.1
+Browser : Firefox 84.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 28/Dec/2020 09:39:13 PM
+==========================================================
+
+IDuser : null
+IP : 127.0.0.1
+Browser : Firefox 84.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 28/Dec/2020 09:39:18 PM
+==========================================================
+
+IDuser : null
+IP : 127.0.0.1
+Browser : Firefox 84.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/index
+IDaction : *
+Action : Form login
+TGL : 28/Dec/2020 09:56:23 PM
+==========================================================
+
+IDuser : null
+IP : 127.0.0.1
+Browser : Firefox 84.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 30/Dec/2020 04:02:53 PM
+==========================================================
+
+IDuser : null
+IP : 127.0.0.1
+Browser : Firefox 84.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/index
+IDaction : *
+Action : Form login
+TGL : 30/Dec/2020 04:03:20 PM
+==========================================================
+
+IDuser : null
+IP : 127.0.0.1
+Browser : Firefox 84.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 31/Dec/2020 09:45:54 PM
+==========================================================
+
+IDuser : null
+IP : 127.0.0.1
+Browser : Firefox 84.0
+Platform : Windows 10
+Role : User
+URLpage : c_berita/index
+IDaction : *
+Action : Cek all berita
+TGL : 31/Dec/2020 09:45:56 PM
+==========================================================
+
+IDuser : null
+IP : 127.0.0.1
+Browser : Firefox 84.0
+Platform : Windows 10
+Role : User
+URLpage : c_berita/readNews
+IDaction : 100019
+Action : Baca berita
+TGL : 31/Dec/2020 09:46:00 PM
+==========================================================
+
+IDuser : null
+IP : 127.0.0.1
+Browser : Firefox 84.0
+Platform : Windows 10
+Role : User
+URLpage : c_berita/index
+IDaction : *
+Action : Cek all berita
+TGL : 31/Dec/2020 09:46:03 PM
+==========================================================
+
+IDuser : null
+IP : 127.0.0.1
+Browser : Firefox 84.0
+Platform : Windows 10
+Role : User
+URLpage : c_berita/readNews
+IDaction : 100015
+Action : Baca berita
+TGL : 31/Dec/2020 09:46:06 PM
+==========================================================
+
+IDuser : null
+IP : 127.0.0.1
+Browser : Firefox 84.0
+Platform : Windows 10
+Role : User
+URLpage : c_berita/index
+IDaction : *
+Action : Cek all berita
+TGL : 31/Dec/2020 09:46:41 PM
+==========================================================
+
+IDuser : null
+IP : 127.0.0.1
+Browser : Firefox 84.0
+Platform : Windows 10
+Role : User
+URLpage : c_berita/index
+IDaction : *
+Action : Cek all berita
+TGL : 31/Dec/2020 09:46:54 PM
+==========================================================
+
+IDuser : null
+IP : 127.0.0.1
+Browser : Firefox 84.0
+Platform : Windows 10
+Role : User
+URLpage : c_berita/index
+IDaction : *
+Action : Cek all berita
+TGL : 31/Dec/2020 09:46:57 PM
+==========================================================
+
+IDuser : null
+IP : 127.0.0.1
+Browser : Firefox 84.0
+Platform : Windows 10
+Role : User
+URLpage : c_berita/readNews
+IDaction : 100019
+Action : Baca berita
+TGL : 31/Dec/2020 09:47:00 PM
+==========================================================
+
+IDuser : null
+IP : 127.0.0.1
+Browser : Firefox 84.0
+Platform : Windows 10
+Role : User
+URLpage : c_berita/index
+IDaction : *
+Action : Cek all berita
+TGL : 31/Dec/2020 09:48:43 PM
+==========================================================
+
+IDuser : null
+IP : 127.0.0.1
+Browser : Firefox 84.0
+Platform : Windows 10
+Role : User
+URLpage : c_berita/readNews
+IDaction : 100019
+Action : Baca berita
+TGL : 31/Dec/2020 09:48:45 PM
+==========================================================
+
+IDuser : null
+IP : 127.0.0.1
+Browser : Firefox 84.0
+Platform : Windows 10
+Role : User
+URLpage : c_berita/index
+IDaction : *
+Action : Cek all berita
+TGL : 31/Dec/2020 09:48:47 PM
+==========================================================
+
+IDuser : null
+IP : 127.0.0.1
+Browser : Firefox 84.0
+Platform : Windows 10
+Role : User
+URLpage : c_berita/readNews
+IDaction : 100019
+Action : Baca berita
+TGL : 31/Dec/2020 09:48:49 PM
+==========================================================
+
+IDuser : null
+IP : 127.0.0.1
+Browser : Firefox 84.0
+Platform : Windows 10
+Role : User
+URLpage : c_berita/index
+IDaction : *
+Action : Cek all berita
+TGL : 31/Dec/2020 09:48:50 PM
+==========================================================
+
+IDuser : null
+IP : 127.0.0.1
+Browser : Firefox 84.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 31/Dec/2020 09:49:37 PM
+==========================================================
+
+IDuser : null
+IP : 127.0.0.1
+Browser : Firefox 84.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 31/Dec/2020 10:00:51 PM
+==========================================================
+
+IDuser : null
+IP : 127.0.0.1
+Browser : Firefox 84.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 12/Jan/2021 09:50:15 PM
+==========================================================
+
+IDuser : null
+IP : 127.0.0.1
+Browser : Firefox 84.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 12/Jan/2021 09:54:03 PM
+==========================================================
+
+IDuser : null
+IP : 127.0.0.1
+Browser : Firefox 84.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 12/Jan/2021 10:22:43 PM
+==========================================================
+
+IDuser : null
+IP : 127.0.0.1
+Browser : Firefox 84.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 12/Jan/2021 10:22:51 PM
+==========================================================
+
+IDuser : null
+IP : 127.0.0.1
+Browser : Firefox 84.0
+Platform : Windows 10
+Role : User
+URLpage : c_berita/index
+IDaction : *
+Action : Cek all berita
+TGL : 12/Jan/2021 10:22:55 PM
+==========================================================
+
+IDuser : null
+IP : 127.0.0.1
+Browser : Firefox 84.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 12/Jan/2021 10:22:57 PM
+==========================================================
+
+IDuser : null
+IP : 127.0.0.1
+Browser : Firefox 84.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 12/Jan/2021 10:22:59 PM
+==========================================================
+
+IDuser : null
+IP : 127.0.0.1
+Browser : Firefox 84.0
+Platform : Windows 10
+Role : User
+URLpage : c_dokumen/cekDokumen
+IDaction : 6
+Action : Cek dokumen
+TGL : 12/Jan/2021 10:23:01 PM
+==========================================================
+
+IDuser : null
+IP : 127.0.0.1
+Browser : Firefox 84.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 12/Jan/2021 10:23:56 PM
+==========================================================
+
+IDuser : null
+IP : 127.0.0.1
+Browser : Firefox 84.0
+Platform : Windows 10
+Role : User
+URLpage : c_dokumen/cekDokumen
+IDaction : 6
+Action : Cek dokumen
+TGL : 12/Jan/2021 10:23:58 PM
+==========================================================
+
+IDuser : null
+IP : 127.0.0.1
+Browser : Firefox 84.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 12/Jan/2021 10:23:59 PM
+==========================================================
+
+IDuser : null
+IP : 127.0.0.1
+Browser : Firefox 85.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 30/Jan/2021 05:27:03 PM
+==========================================================
+
+IDuser : null
+IP : 127.0.0.1
+Browser : Firefox 85.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 30/Jan/2021 05:28:02 PM
+==========================================================
+
+IDuser : null
+IP : 127.0.0.1
+Browser : Firefox 85.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/index
+IDaction : *
+Action : Form login
+TGL : 30/Jan/2021 05:28:07 PM
+==========================================================
+
+IDuser : null
+IP : 127.0.0.1
+Browser : Firefox 85.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/index
+IDaction : *
+Action : Form login
+TGL : 30/Jan/2021 05:28:15 PM
+==========================================================
+
+IDuser : null
+IP : 127.0.0.1
+Browser : Firefox 85.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 30/Jan/2021 05:29:06 PM
+==========================================================
+
+IDuser : null
+IP : 127.0.0.1
+Browser : Firefox 85.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 01/Feb/2021 08:47:54 AM
+==========================================================
+
+IDuser : null
+IP : 127.0.0.1
+Browser : Firefox 85.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/index
+IDaction : *
+Action : Form login
+TGL : 01/Feb/2021 08:52:29 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Chrome 86.0.4240.111
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 01/Feb/2021 10:43:49 AM
+==========================================================
+
+IDuser : null
+IP : 127.0.0.1
+Browser : Firefox 85.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 01/Feb/2021 10:44:16 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Chrome 88.0.4324.104
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 01/Feb/2021 10:51:19 AM
+==========================================================
+
+IDuser : null
+IP : 127.0.0.1
+Browser : Firefox 85.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 01/Feb/2021 10:54:13 AM
+==========================================================
+
+IDuser : null
+IP : 127.0.0.1
+Browser : Firefox 85.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 01/Feb/2021 11:09:13 AM
+==========================================================
+
+IDuser : null
+IP : 127.0.0.1
+Browser : Firefox 85.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/index
+IDaction : *
+Action : Form login
+TGL : 01/Feb/2021 11:09:19 AM
+==========================================================
+
+IDuser : null
+IP : 127.0.0.1
+Browser : Firefox 85.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 01/Feb/2021 11:09:39 AM
+==========================================================
+
+IDuser : null
+IP : 127.0.0.1
+Browser : Firefox 85.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/index
+IDaction : *
+Action : Form login
+TGL : 01/Feb/2021 11:09:40 AM
+==========================================================
+
+IDuser : null
+IP : 127.0.0.1
+Browser : Firefox 85.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/index
+IDaction : *
+Action : Form login
+TGL : 01/Feb/2021 11:09:59 AM
+==========================================================
+
+IDuser : null
+IP : 127.0.0.1
+Browser : Firefox 85.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/index
+IDaction : *
+Action : Form login
+TGL : 01/Feb/2021 11:10:11 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Chrome 88.0.4324.104
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/index
+IDaction : *
+Action : Form login
+TGL : 01/Feb/2021 11:10:55 AM
+==========================================================
+
+IDuser : null
+IP : 127.0.0.1
+Browser : Firefox 85.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 01/Feb/2021 11:11:46 AM
+==========================================================
+
+IDuser : null
+IP : 127.0.0.1
+Browser : Firefox 85.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/index
+IDaction : *
+Action : Form login
+TGL : 01/Feb/2021 11:11:48 AM
+==========================================================
+
+IDuser : null
+IP : 127.0.0.1
+Browser : Firefox 85.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/index
+IDaction : *
+Action : Form login
+TGL : 01/Feb/2021 11:13:48 AM
+==========================================================
+
+IDuser : null
+IP : 127.0.0.1
+Browser : Firefox 85.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 01/Feb/2021 02:28:14 PM
+==========================================================
+
+IDuser : null
+IP : 127.0.0.1
+Browser : Firefox 85.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 01/Feb/2021 02:28:52 PM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Chrome 88.0.4324.104
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 01/Feb/2021 02:35:55 PM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Chrome 107.0.0.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 23/Nov/2022 11:19:36 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Chrome 107.0.0.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 23/Nov/2022 11:22:57 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Chrome 107.0.0.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 23/Nov/2022 11:24:09 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Chrome 107.0.0.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/index
+IDaction : *
+Action : Form login
+TGL : 23/Nov/2022 11:25:08 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Chrome 107.0.0.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 23/Nov/2022 11:47:47 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Chrome 107.0.0.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 23/Nov/2022 11:47:57 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Chrome 107.0.0.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/index
+IDaction : *
+Action : Form login
+TGL : 23/Nov/2022 11:48:02 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Chrome 107.0.0.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 23/Nov/2022 11:49:09 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Chrome 107.0.0.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/index
+IDaction : *
+Action : Form login
+TGL : 23/Nov/2022 11:49:12 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Chrome 107.0.0.0
+Platform : Windows 10
+Role : User
+URLpage : c_opd/index
+IDaction : *
+Action : Homepage
+TGL : 23/Nov/2022 11:49:40 AM
+==========================================================
+
+IDuser : null
+IP : ::1
+Browser : Chrome 107.0.0.0
+Platform : Windows 10
+Role : User
+URLpage : c_login_register/index
+IDaction : *
+Action : Form login
+TGL : 23/Nov/2022 11:50:29 AM
+==========================================================
